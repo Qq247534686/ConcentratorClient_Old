@@ -1,0 +1,833 @@
+
+----------------------header--------------------------
+2017-01-12 09:57:11,645 [1] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 192.168.1.76:8888
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 集中器控制客户端.HandleClass.HandleTool.createSocket(String ip, String port, String user_Txt, String Pws_Txt) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 185
+
+2017-01-12 09:57:15,198 [1] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 192.168.1.76:8888
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 集中器控制客户端.HandleClass.HandleTool.createSocket(String ip, String port, String user_Txt, String Pws_Txt) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 185
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-12 10:52:07,168 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 241
+
+2017-01-12 10:52:09,156 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 241
+
+2017-01-12 10:52:09,683 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 241
+
+2017-01-12 10:52:09,900 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 241
+
+2017-01-12 10:52:10,076 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 241
+
+2017-01-12 10:52:10,259 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 241
+
+2017-01-12 10:52:10,939 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 241
+
+2017-01-12 10:52:13,603 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 241
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-12 10:52:46,678 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 241
+
+2017-01-12 10:52:49,723 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 241
+
+2017-01-12 10:52:51,674 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 241
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-12 10:53:31,877 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 241
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-12 12:16:44,665 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 241
+
+2017-01-12 12:17:05,734 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 241
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-12 12:27:16,164 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 241
+
+2017-01-12 12:27:16,778 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 241
+
+2017-01-12 12:27:18,601 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 241
+
+2017-01-12 12:27:20,442 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 241
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-12 12:28:41,540 [1] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 192.168.1.76:8888
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 集中器控制客户端.HandleClass.HandleTool.createSocket(String ip, String port, String user_Txt, String Pws_Txt) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 185
+
+2017-01-12 12:28:51,710 [1] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 192.168.1.76:8888
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 集中器控制客户端.HandleClass.HandleTool.createSocket(String ip, String port, String user_Txt, String Pws_Txt) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 185
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-12 12:45:10,532 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 238
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-12 12:45:37,580 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 238
+
+2017-01-12 12:45:37,837 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 238
+
+2017-01-12 12:45:38,013 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 238
+
+2017-01-12 12:45:38,196 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 238
+
+2017-01-12 12:45:38,357 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 238
+
+2017-01-12 12:45:38,525 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 238
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-12 13:25:38,308 [3] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 458
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-12 13:26:04,431 [3] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 458
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-12 13:27:02,885 [12] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 458
+
+
+----------------------header--------------------------
+2017-01-12 13:27:34,565 [11] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 458
+
+
+----------------------header--------------------------
+2017-01-12 13:30:51,441 [11] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 458
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-12 13:33:23,279 [12] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 458
+
+
+----------------------header--------------------------
+2017-01-12 13:36:11,980 [3] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 458
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-12 13:39:13,777 [3] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 458
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-12 13:42:56,516 [3] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 458
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-12 13:44:19,765 [3] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 458
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-12 13:51:33,461 [3] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 458
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-12 13:53:27,844 [3] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 458
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-12 13:54:46,204 [3] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 458
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-12 14:02:13,543 [3] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 458
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-12 14:04:21,302 [3] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 458
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-12 14:26:04,961 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 238
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-12 14:27:41,764 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 238
+
+2017-01-12 14:27:58,771 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 238
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-12 14:29:49,554 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 238
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-12 14:37:36,038 [3] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 458
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-12 14:44:38,728 [3] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 458
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-12 14:52:14,081 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 238
+
+2017-01-12 14:53:15,150 [3] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 458
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-12 14:53:33,733 [12] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 458
+
+2017-01-12 14:56:24,824 [12] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.receiveInfo() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 64
+
+2017-01-12 14:56:29,815 [10] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 458
+
+
+----------------------header--------------------------
+2017-01-12 14:59:52,094 [12] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 458
+
+2017-01-12 15:00:31,372 [12] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 远程主机强迫关闭了一个现有的连接。
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.receiveInfo() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 64
+
+2017-01-12 15:00:43,063 [9] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 远程主机强迫关闭了一个现有的连接。
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 238
+
+2017-01-12 15:00:47,509 [10] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 458
+
+
+----------------------header--------------------------
+2017-01-12 15:06:38,615 [1] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 192.168.1.76:8888
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 集中器控制客户端.HandleClass.HandleTool.createSocket(String ip, String port, String user_Txt, String Pws_Txt) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 183
+
+2017-01-12 15:06:59,535 [3] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 458
+
+2017-01-12 15:07:51,783 [3] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 远程主机强迫关闭了一个现有的连接。
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.receiveInfo() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 64
+
+2017-01-12 15:09:47,754 [4] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 458
+
+2017-01-12 15:10:07,613 [4] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 远程主机强迫关闭了一个现有的连接。
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.receiveInfo() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 64
+
+2017-01-12 15:10:24,630 [3] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 458
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-12 15:15:33,076 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 238
+
+2017-01-12 15:16:05,895 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 238
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-12 15:19:47,444 [3] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 458
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-12 15:23:17,280 [3] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 458
+
+2017-01-12 15:23:55,179 [3] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.receiveInfo() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 64
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-12 15:24:06,706 [3] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 458
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-12 15:49:48,930 [3] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 458
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-12 16:03:19,383 [3] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 458
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-12 16:57:26,591 [1] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 192.168.1.76:8888
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 集中器控制客户端.HandleClass.HandleTool.createSocket(String ip, String port, String user_Txt, String Pws_Txt) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 183
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-12 17:39:50,175 [1] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 192.168.1.76:8888
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 集中器控制客户端.HandleClass.HandleTool.createSocket(String ip, String port, String user_Txt, String Pws_Txt) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 183
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-12 18:23:05,090 [3] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 458
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-12 18:23:26,366 [12] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 458
+
+
+----------------------header--------------------------
+2017-01-12 18:24:15,741 [11] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 458
+
+
+----------------------header--------------------------
+2017-01-12 18:25:02,300 [11] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 458
+
+
+----------------------header--------------------------
+2017-01-12 18:26:59,793 [11] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 458
+
+
+----------------------header--------------------------
+2017-01-12 18:28:04,967 [11] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 458
+
+
+----------------------header--------------------------
+2017-01-12 18:31:37,192 [3] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 458
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-12 18:37:12,491 [9] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 192.168.1.76:8888
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 集中器控制客户端.HandleClass.HandleTool.createSocket(String ip, String port, String user_Txt, String Pws_Txt) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 183
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-12 18:51:31,363 [12] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 458
+
+
+----------------------header--------------------------
+2017-01-12 18:52:23,849 [3] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 458
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-12 18:53:47,180 [3] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 458
+
+2017-01-12 18:53:50,006 [3] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 Microsoft.Win32.SafeNativeMethods.FormatMessage(Int32 dwFlags, IntPtr lpSource_mustBeNull, UInt32 dwMessageId, Int32 dwLanguageId, StringBuilder lpBuffer, Int32 nSize, IntPtr[] arguments)
+   在 System.ComponentModel.Win32Exception.TryGetErrorMessage(Int32 error, StringBuilder sb, String& errorMsg)
+   在 System.ComponentModel.Win32Exception.GetErrorMessage(Int32 error)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.receiveInfo() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 64
+
+2017-01-12 18:53:51,316 [4] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 458
+
+2017-01-12 18:53:59,289 [4] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 221
+   在 集中器控制客户端.HandleClass.HandleTool.receiveInfo() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 67
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-12 18:55:55,263 [3] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 458
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-12 19:34:05,266 [1] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 192.168.1.76:8888
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 集中器控制客户端.HandleClass.HandleTool.createSocket(String ip, String port, String user_Txt, String Pws_Txt) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 183
+
+2017-01-12 19:34:16,157 [1] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 192.168.1.76:8888
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 集中器控制客户端.HandleClass.HandleTool.createSocket(String ip, String port, String user_Txt, String Pws_Txt) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 183
+
+2017-01-12 19:34:19,200 [1] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 192.168.1.76:8888
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 集中器控制客户端.HandleClass.HandleTool.createSocket(String ip, String port, String user_Txt, String Pws_Txt) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 183
+
+2017-01-12 19:34:40,176 [1] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 192.168.1.76:8888
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 集中器控制客户端.HandleClass.HandleTool.createSocket(String ip, String port, String user_Txt, String Pws_Txt) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 183
+
+2017-01-12 19:34:44,059 [1] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 192.168.1.76:8888
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 集中器控制客户端.HandleClass.HandleTool.createSocket(String ip, String port, String user_Txt, String Pws_Txt) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 183
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-12 19:35:32,445 [3] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 458
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-12 19:36:14,963 [3] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 458
+
+
+----------------------header--------------------------
+2017-01-12 19:45:04,776 [3] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 458
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-12 19:46:34,498 [11] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 458
+

@@ -1,0 +1,31 @@
+﻿ List<short> checkList = wdh.CHANNEL_DATA[0].channelDatas[0].HEX_POINT_DATA.ToList();
+                    int count = checkList.Count();
+                    int pointNum = 0;
+
+
+                    List<cycleData> cd = new List<cycleData>();
+                    while (pointNum < count)
+                    {
+                        double squareSum = 0;
+                       
+                        List<short> checkingList = checkList.Skip(0).Take(82).ToList();
+                        
+                        cycleData cdi = new cycleData();
+                        cdi.maxValue = MaxMinIndex.GetMaxAndIndex(checkingList.ToArray());
+                        cdi.minValue = MaxMinIndex.GetMinAndIndex(checkingList.ToArray());
+                        cdi.overZeroPoint = 0;
+                        for(int i=0;i<82;i++){
+                            squareSum += Math.Pow(checkingList[i], 2);
+                            if (i < 81 && cdi.overZeroPoint==0)
+                            {
+                                if ((checkingList[i] >= 0 && checkingList[i + 1] <= 0) || (checkingList[i] <= 0 && checkingList[i + 1] >= 0))
+                                {
+                                    cdi.overZeroPoint = Math.Round(((i + 1) * 82 * 1.0 / 360),1);
+                                }
+                            }
+                        }
+                        cdi.rootValue = Math.Round(Math.Sqrt(squareSum / 82),1);
+                        cd.Add(cdi);
+                        checkList.RemoveRange(0, 82);
+                        pointNum += 82;
+                    }

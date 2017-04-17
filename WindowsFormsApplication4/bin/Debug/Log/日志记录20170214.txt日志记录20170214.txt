@@ -1,0 +1,28 @@
+
+----------------------header--------------------------
+2017-02-14 10:13:25,224 [1] ERROR errorMsg - System.TypeInitializationException: “集中器控制客户端.HandleClass.HandelControls”的类型初始值设定项引发异常。 ---> System.BadImageFormatException: 未能加载文件或程序集“System.Data.SQLite, Version=1.0.104.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139”或它的某一个依赖项。试图加载格式不正确的程序。
+   在 集中器控制客户端.HandleClass.SQLiteHelper.CreateDB(String dbName)
+   在 集中器控制客户端.HandleClass.SQLiteHelper..ctor() 位置 f:\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\SQLiteHelper.cs:行号 25
+   在 集中器控制客户端.HandleClass.HandelControls..ctor() 位置 f:\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 27
+   在 集中器控制客户端.HandleClass.HandelControls..cctor() 位置 f:\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 31
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 集中器控制客户端.HandleClass.HandelControls.createHandelControls()
+   在 集中器控制客户端.ConcentratorControlClient.WindowLoading() 位置 f:\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 49
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 f:\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 195
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-14 10:15:01,704 [1] ERROR errorMsg - System.TypeInitializationException: “集中器控制客户端.HandleClass.HandelControls”的类型初始值设定项引发异常。 ---> System.BadImageFormatException: 未能加载文件或程序集“System.Data.SQLite, Version=1.0.104.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139”或它的某一个依赖项。试图加载格式不正确的程序。
+   在 集中器控制客户端.HandleClass.SQLiteHelper.CreateDB(String dbName)
+   在 集中器控制客户端.HandleClass.SQLiteHelper..ctor() 位置 f:\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\SQLiteHelper.cs:行号 25
+   在 集中器控制客户端.HandleClass.HandelControls..ctor() 位置 f:\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 27
+   在 集中器控制客户端.HandleClass.HandelControls..cctor() 位置 f:\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 31
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 集中器控制客户端.HandleClass.HandelControls.createHandelControls()
+   在 集中器控制客户端.ConcentratorControlClient.WindowLoading() 位置 f:\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 49
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 f:\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 195
+
+
+----------------------footer--------------------------

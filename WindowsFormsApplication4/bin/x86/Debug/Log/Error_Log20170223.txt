@@ -1,0 +1,1969 @@
+
+----------------------header--------------------------
+2017-02-23 09:41:27,679 [4] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 一个封锁操作被对 WSACancelBlockingCall 的调用中断。
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 h:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 09:49:03,888 [4] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 Microsoft.Win32.SafeNativeMethods.FormatMessage(Int32 dwFlags, IntPtr lpSource_mustBeNull, UInt32 dwMessageId, Int32 dwLanguageId, StringBuilder lpBuffer, Int32 nSize, IntPtr[] arguments)
+   在 System.ComponentModel.Win32Exception.TryGetErrorMessage(Int32 error, StringBuilder sb, String& errorMsg)
+   在 System.ComponentModel.Win32Exception.GetErrorMessage(Int32 error)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 09:49:10,177 [7] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.CloseThread() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 331
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 273
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 77
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 09:49:42,544 [4] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 Microsoft.Win32.SafeNativeMethods.FormatMessage(Int32 dwFlags, IntPtr lpSource_mustBeNull, UInt32 dwMessageId, Int32 dwLanguageId, StringBuilder lpBuffer, Int32 nSize, IntPtr[] arguments)
+   在 System.ComponentModel.Win32Exception.TryGetErrorMessage(Int32 error, StringBuilder sb, String& errorMsg)
+   在 System.ComponentModel.Win32Exception.GetErrorMessage(Int32 error)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 09:49:49,294 [7] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 Microsoft.Win32.SafeNativeMethods.FormatMessage(Int32 dwFlags, IntPtr lpSource_mustBeNull, UInt32 dwMessageId, Int32 dwLanguageId, StringBuilder lpBuffer, Int32 nSize, IntPtr[] arguments)
+   在 System.ComponentModel.Win32Exception.TryGetErrorMessage(Int32 error, StringBuilder sb, String& errorMsg)
+   在 System.ComponentModel.Win32Exception.GetErrorMessage(Int32 error)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 09:49:54,324 [4] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 Microsoft.Win32.SafeNativeMethods.FormatMessage(Int32 dwFlags, IntPtr lpSource_mustBeNull, UInt32 dwMessageId, Int32 dwLanguageId, StringBuilder lpBuffer, Int32 nSize, IntPtr[] arguments)
+   在 System.ComponentModel.Win32Exception.TryGetErrorMessage(Int32 error, StringBuilder sb, String& errorMsg)
+   在 System.ComponentModel.Win32Exception.GetErrorMessage(Int32 error)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 09:50:04,994 [7] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.CloseThread() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 331
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 273
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 77
+
+2017-02-23 09:50:20,579 [4] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 09:50:20,626 [6] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 290
+
+2017-02-23 09:50:33,212 [8] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 09:50:35,921 [3] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 远程主机强迫关闭了一个现有的连接。
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 09:50:39,982 [4] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.CloseThread() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 331
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 273
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 77
+
+2017-02-23 09:50:52,061 [7] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 290
+
+2017-02-23 09:50:52,061 [7] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 09:50:57,841 [6] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 09:52:07,030 [4] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 Microsoft.Win32.SafeNativeMethods.FormatMessage(Int32 dwFlags, IntPtr lpSource_mustBeNull, UInt32 dwMessageId, Int32 dwLanguageId, StringBuilder lpBuffer, Int32 nSize, IntPtr[] arguments)
+   在 System.ComponentModel.Win32Exception.TryGetErrorMessage(Int32 error, StringBuilder sb, String& errorMsg)
+   在 System.ComponentModel.Win32Exception.GetErrorMessage(Int32 error)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 09:57:17,553 [4] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 290
+
+2017-02-23 09:57:17,553 [4] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 09:57:24,309 [7] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 09:57:49,370 [13] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 一个封锁操作被对 WSACancelBlockingCall 的调用中断。
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 09:57:49,370 [11] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 一个封锁操作被对 WSACancelBlockingCall 的调用中断。
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 09:57:49,370 [10] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 09:57:49,964 [4] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 192.168.1.76:8888
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 集中器控制客户端.HandleClass.HandleTool.ToThreadCreateSocket(Object obj) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 139
+
+2017-02-23 09:57:53,339 [8] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 192.168.1.76:8888
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 集中器控制客户端.HandleClass.HandleTool.ToThreadCreateSocket(Object obj) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 139
+
+2017-02-23 09:58:04,293 [6] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 09:58:17,904 [12] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 一个封锁操作被对 WSACancelBlockingCall 的调用中断。
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 09:58:17,904 [5] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 09:58:31,310 [6] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.CloseThread() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 331
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 273
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 77
+
+2017-02-23 09:59:02,701 [5] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 192.168.1.76:8888
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 集中器控制客户端.HandleClass.HandleTool.ToThreadCreateSocket(Object obj) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 139
+
+2017-02-23 09:59:03,794 [15] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 09:59:06,241 [3] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 192.168.1.76:8888
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 集中器控制客户端.HandleClass.HandleTool.ToThreadCreateSocket(Object obj) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 139
+
+2017-02-23 09:59:06,824 [17] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 09:59:12,060 [8] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 192.168.1.76:8888
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 集中器控制客户端.HandleClass.HandleTool.ToThreadCreateSocket(Object obj) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 139
+
+2017-02-23 09:59:19,655 [10] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 09:59:19,671 [11] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 290
+
+2017-02-23 09:59:22,798 [6] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 290
+
+2017-02-23 09:59:22,798 [6] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 10:00:41,278 [13] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 10:00:48,965 [16] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 10:00:56,340 [12] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.CloseThread() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 331
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 273
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 77
+
+2017-02-23 10:01:07,433 [16] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.CloseThread() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 331
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 273
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 77
+
+2017-02-23 10:01:41,902 [12] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 10:01:48,823 [15] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 远程主机强迫关闭了一个现有的连接。
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 10:01:58,762 [18] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.CloseThread() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 331
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 273
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 77
+
+2017-02-23 10:02:11,810 [15] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 一个封锁操作被对 WSACancelBlockingCall 的调用中断。
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 10:02:11,841 [12] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 10:02:33,826 [18] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.CloseThread() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 331
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 273
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 77
+
+2017-02-23 10:02:44,326 [11] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.CloseThread() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 331
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 273
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 77
+
+2017-02-23 10:02:57,497 [15] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 10:03:04,182 [11] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 10:03:11,122 [15] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 10:03:24,028 [11] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 一个封锁操作被对 WSACancelBlockingCall 的调用中断。
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 10:03:24,059 [14] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 10:03:49,499 [16] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 10:03:56,483 [15] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 10:04:11,888 [12] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 一个封锁操作被对 WSACancelBlockingCall 的调用中断。
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 10:04:11,919 [16] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 10:04:19,277 [13] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.CloseThread() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 331
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 273
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 77
+
+2017-02-23 10:04:41,965 [14] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 10:04:48,888 [13] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.CloseThread() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 331
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 273
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 77
+
+2017-02-23 10:05:36,217 [18] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 10:05:40,033 [16] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 一个封锁操作被对 WSACancelBlockingCall 的调用中断。
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 10:05:40,062 [3] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 10:06:43,589 [13] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 10:06:50,514 [17] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 10:06:56,701 [13] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 10:07:11,965 [11] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 一个封锁操作被对 WSACancelBlockingCall 的调用中断。
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 10:07:11,997 [13] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 10:07:19,013 [14] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.CloseThread() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 331
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 273
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 77
+
+2017-02-23 10:07:25,546 [12] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 10:07:31,716 [17] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+
+----------------------header--------------------------
+2017-02-23 10:08:31,500 [12] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 10:08:41,591 [11] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 10:09:18,293 [15] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 10:09:18,589 [12] ERROR errorMsg - System.ObjectDisposedException: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 10:09:29,061 [6] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.CloseThread() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 331
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 273
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 77
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 10:10:19,137 [12] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 10:10:25,498 [14] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+
+----------------------header--------------------------
+2017-02-23 10:12:02,043 [3] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 10:12:28,794 [1] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 192.168.1.7:8888
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 集中器控制客户端.HandleClass.HandleTool.ToThreadCreateSocket(Object obj) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 141
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 10:21:24,092 [5] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 一个封锁操作被对 WSACancelBlockingCall 的调用中断。
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 10:21:24,108 [7] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 10:21:39,858 [9] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.CloseThread() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 334
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 276
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 77
+
+2017-02-23 10:21:44,071 [11] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.CloseThread() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 334
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 276
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 77
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 10:22:53,623 [8] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 10:22:53,639 [5] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 一个封锁操作被对 WSACancelBlockingCall 的调用中断。
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 10:49:23,560 [8] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 10:49:31,997 [10] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 10:54:01,217 [6] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 10:54:11,498 [8] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 10:54:43,779 [10] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 10:56:22,061 [6] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 10:57:28,529 [6] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 10:57:42,966 [9] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 10:58:11,968 [6] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 10:59:04,638 [6] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 11:00:28,669 [6] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 11:01:21,545 [10] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 11:01:30,529 [12] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.CloseThread() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 339
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 281
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 77
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 11:02:24,828 [6] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 11:02:32,607 [8] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 11:02:57,420 [10] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 11:03:19,246 [9] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   在 System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 87
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 11:04:53,481 [13] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 11:05:10,902 [15] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 11:05:19,528 [14] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.CloseThread() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 339
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 281
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 77
+
+2017-02-23 11:05:29,606 [16] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.CloseThread() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 339
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 281
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 77
+
+2017-02-23 11:05:46,077 [13] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 11:05:56,216 [17] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 11:06:04,747 [14] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.CloseThread() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 339
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 281
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 77
+
+2017-02-23 11:06:14,575 [18] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.CloseThread() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 339
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 281
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 77
+
+2017-02-23 11:06:24,811 [13] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.CloseThread() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 339
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 281
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 77
+
+2017-02-23 11:06:33,154 [17] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 11:07:02,327 [15] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 11:07:25,497 [12] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 11:07:39,013 [16] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 11:07:44,636 [14] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.CloseThread() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 339
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 281
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 77
+
+2017-02-23 11:08:01,605 [17] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 11:08:09,576 [12] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 11:08:19,640 [17] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.CloseThread() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 339
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 281
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 77
+
+2017-02-23 11:08:19,687 [16] ERROR errorMsg - System.ObjectDisposedException: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 298
+
+2017-02-23 11:08:40,138 [14] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 11:08:49,593 [16] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 远程主机强迫关闭了一个现有的连接。
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 11:09:02,811 [11] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 11:09:13,512 [17] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 11:09:19,624 [18] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.CloseThread() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 339
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 281
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 77
+
+2017-02-23 11:09:26,404 [16] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 11:09:34,623 [11] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.CloseThread() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 339
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 281
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 77
+
+2017-02-23 11:09:50,307 [17] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 11:09:55,858 [18] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 11:10:04,637 [16] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.CloseThread() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 339
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 281
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 77
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 11:11:20,498 [6] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 11:11:39,370 [6] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 11:12:29,435 [15] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 11:12:41,325 [11] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 11:12:55,421 [16] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+
+----------------------header--------------------------
+2017-02-23 11:13:22,528 [6] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 11:14:49,389 [6] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 11:15:40,090 [1] ERROR errorMsg - System.FormatException: 指定了无效的 IP 地址。
+   在 System.Net.IPAddress.InternalParse(String ipString, Boolean tryParse)
+   在 System.Net.IPAddress.Parse(String ipString)
+   在 集中器控制客户端.HandleClass.HandleTool.ToThreadCreateSocket(Object obj) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 137
+
+2017-02-23 11:15:46,542 [1] ERROR errorMsg - System.FormatException: 指定了无效的 IP 地址。
+   在 System.Net.IPAddress.InternalParse(String ipString, Boolean tryParse)
+   在 System.Net.IPAddress.Parse(String ipString)
+   在 集中器控制客户端.HandleClass.HandleTool.ToThreadCreateSocket(Object obj) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 137
+
+2017-02-23 11:15:54,779 [1] ERROR errorMsg - System.FormatException: 指定了无效的 IP 地址。
+   在 System.Net.IPAddress.InternalParse(String ipString, Boolean tryParse)
+   在 System.Net.IPAddress.Parse(String ipString)
+   在 集中器控制客户端.HandleClass.HandleTool.ToThreadCreateSocket(Object obj) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 137
+
+2017-02-23 11:16:12,278 [6] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 11:16:48,154 [8] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 11:17:23,059 [6] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 11:17:36,467 [10] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 11:17:41,810 [7] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 11:17:47,452 [11] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   在 System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 87
+
+2017-02-23 11:17:56,324 [9] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 11:18:04,762 [10] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.CloseThread() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 339
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 281
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 77
+
+2017-02-23 11:18:12,780 [5] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 11:18:41,026 [11] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 11:19:39,294 [6] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 11:19:44,512 [8] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   在 System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 87
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 11:20:02,746 [6] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 11:20:07,327 [8] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 11:20:16,529 [10] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 11:21:02,289 [9] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 11:21:08,575 [10] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 11:22:23,034 [6] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 11:22:27,855 [8] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   在 System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 87
+
+2017-02-23 11:22:35,060 [7] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 11:23:00,903 [6] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 11:23:08,372 [8] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 11:23:12,014 [7] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 11:24:49,123 [6] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 11:25:01,466 [8] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 11:25:27,435 [7] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 11:25:40,639 [9] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 11:26:24,639 [6] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 11:27:58,168 [6] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 11:28:32,608 [6] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 11:30:48,483 [6] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 11:31:26,045 [6] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 11:31:34,980 [8] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.CloseThread() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 339
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 281
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 77
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 11:32:23,311 [6] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 11:34:38,941 [6] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 11:34:44,994 [8] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.CloseThread() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 339
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 281
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 77
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 11:37:36,767 [6] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 11:37:42,773 [9] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 12:14:05,002 [6] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 12:15:21,402 [6] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 12:16:16,456 [6] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 12:16:36,691 [8] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 12:16:44,057 [7] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 12:16:48,440 [9] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 12:16:55,054 [6] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 12:16:58,597 [8] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 12:17:03,380 [7] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 12:17:08,066 [9] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 12:17:12,781 [6] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 12:17:17,349 [8] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 12:17:23,480 [7] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 12:17:27,209 [9] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 12:17:40,249 [6] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.CloseThread() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 339
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 281
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 77
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 12:17:58,023 [6] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 12:18:05,079 [8] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 12:18:12,660 [7] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 12:18:20,288 [5] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.CloseThread() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 339
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 281
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 77
+
+2017-02-23 12:18:29,299 [6] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 12:18:37,976 [5] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 12:18:45,285 [7] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.CloseThread() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 339
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 281
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 77
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 12:20:03,612 [6] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 12:20:12,604 [9] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 12:20:20,327 [11] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.CloseThread() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 339
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 281
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 77
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 12:50:56,534 [6] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 12:56:37,292 [6] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.CloseThread() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 339
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 281
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 77
+
+2017-02-23 12:56:42,417 [1] ERROR errorMsg - System.ObjectDisposedException: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 298
+
+2017-02-23 12:56:51,623 [1] ERROR errorMsg - System.ObjectDisposedException: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 298
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 13:09:26,233 [6] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 13:11:00,989 [6] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 13:24:59,991 [6] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 13:25:37,465 [9] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 13:26:27,814 [8] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 13:26:41,385 [5] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 13:28:45,230 [6] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 13:28:49,702 [9] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 你的主机中的软件中止了一个已建立的连接。
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 13:58:29,495 [6] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 14:37:11,654 [1] ERROR errorMsg - System.ArgumentNullException: 值不能为 null。
+参数名: second
+   在 System.Linq.Enumerable.Concat[TSource](IEnumerable`1 first, IEnumerable`1 second)
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportUnSerialize(ClientReport data) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 111
+
+2017-02-23 14:37:11,756 [7] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 501
+
+2017-02-23 14:43:43,270 [6] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 远程主机强迫关闭了一个现有的连接。
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 15:17:30,120 [14] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.CloseThread() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 339
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 281
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 77
+
+
+----------------------header--------------------------
+2017-02-23 15:22:35,115 [1] ERROR errorMsg - System.ArgumentNullException: 值不能为 null。
+参数名: second
+   在 System.Linq.Enumerable.Concat[TSource](IEnumerable`1 first, IEnumerable`1 second)
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportUnSerialize(ClientReport data) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 111
+
+2017-02-23 15:22:35,228 [7] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 505
+
+2017-02-23 15:22:42,058 [1] ERROR errorMsg - System.ArgumentNullException: 值不能为 null。
+参数名: second
+   在 System.Linq.Enumerable.Concat[TSource](IEnumerable`1 first, IEnumerable`1 second)
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportUnSerialize(ClientReport data) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 111
+
+2017-02-23 15:22:42,148 [7] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 505
+
+2017-02-23 15:22:51,115 [1] ERROR errorMsg - System.ArgumentNullException: 值不能为 null。
+参数名: second
+   在 System.Linq.Enumerable.Concat[TSource](IEnumerable`1 first, IEnumerable`1 second)
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportUnSerialize(ClientReport data) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 111
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 15:29:52,089 [1] ERROR errorMsg - System.ArgumentNullException: 值不能为 null。
+参数名: second
+   在 System.Linq.Enumerable.Concat[TSource](IEnumerable`1 first, IEnumerable`1 second)
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportUnSerialize(ClientReport data) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 111
+
+2017-02-23 15:29:57,001 [7] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 505
+
+2017-02-23 15:30:04,481 [1] ERROR errorMsg - System.ArgumentNullException: 值不能为 null。
+参数名: second
+   在 System.Linq.Enumerable.Concat[TSource](IEnumerable`1 first, IEnumerable`1 second)
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportUnSerialize(ClientReport data) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 111
+
+2017-02-23 15:30:04,632 [7] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 505
+
+2017-02-23 15:30:07,487 [1] ERROR errorMsg - System.ArgumentNullException: 值不能为 null。
+参数名: second
+   在 System.Linq.Enumerable.Concat[TSource](IEnumerable`1 first, IEnumerable`1 second)
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportUnSerialize(ClientReport data) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 111
+
+2017-02-23 15:30:07,645 [7] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 505
+
+2017-02-23 15:30:53,223 [1] ERROR errorMsg - System.ArgumentNullException: 值不能为 null。
+参数名: second
+   在 System.Linq.Enumerable.Concat[TSource](IEnumerable`1 first, IEnumerable`1 second)
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportUnSerialize(ClientReport data) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 111
+
+2017-02-23 15:30:53,349 [7] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 505
+
+2017-02-23 15:31:03,775 [1] ERROR errorMsg - System.ArgumentNullException: 值不能为 null。
+参数名: second
+   在 System.Linq.Enumerable.Concat[TSource](IEnumerable`1 first, IEnumerable`1 second)
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportUnSerialize(ClientReport data) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 111
+
+2017-02-23 15:31:03,888 [7] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 505
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 15:34:42,206 [6] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 15:41:06,842 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 298
+
+2017-02-23 15:41:10,032 [1] ERROR errorMsg - System.ArgumentNullException: 值不能为 null。
+参数名: second
+   在 System.Linq.Enumerable.Concat[TSource](IEnumerable`1 first, IEnumerable`1 second)
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportUnSerialize(ClientReport data) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 111
+
+2017-02-23 15:41:10,033 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 298
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 15:56:05,380 [6] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-23 15:56:15,258 [9] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 16:17:18,484 [6] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 远程主机强迫关闭了一个现有的连接。
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-23 17:20:47,485 [15] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------

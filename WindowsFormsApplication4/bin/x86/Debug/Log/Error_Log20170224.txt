@@ -1,0 +1,191 @@
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-24 14:54:29,488 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.ChartForm.button1_Click(Object sender, EventArgs e) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ChartForm.cs:行号 223
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-24 17:47:34,690 [9] ERROR errorMsg - System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Int32.Parse(String s)
+   在 集中器控制客户端.HandleClass.HandelControls.StringConvertByte(String address, String responseValue) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 668
+   在 集中器控制客户端.ConcentratorControlClient.ValidateGroupContorls(String contorlName) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 1261
+
+2017-02-24 17:48:17,834 [9] ERROR errorMsg - System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Int32.Parse(String s)
+   在 集中器控制客户端.HandleClass.HandelControls.StringConvertByte(String address, String responseValue) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 668
+   在 集中器控制客户端.HandleClass.HandelControls.ResponseSettingParameter(Byte[] address, String groupNumber, List`1 addressArray, List`1 valueArray) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 710
+
+2017-02-24 17:48:30,078 [9] ERROR errorMsg - System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Int32.Parse(String s)
+   在 集中器控制客户端.HandleClass.HandelControls.StringConvertByte(String address, String responseValue) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 668
+   在 集中器控制客户端.ConcentratorControlClient.ValidateGroupContorls(String contorlName) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 1261
+
+
+----------------------header--------------------------
+2017-02-24 17:50:56,674 [9] ERROR errorMsg - System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Int32.Parse(String s)
+   在 集中器控制客户端.HandleClass.HandelControls.StringConvertByte(String address, String responseValue) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 668
+   在 集中器控制客户端.ConcentratorControlClient.ValidateGroupContorls(String contorlName) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 1261
+
+2017-02-24 17:51:01,241 [9] ERROR errorMsg - System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Int32.Parse(String s)
+   在 集中器控制客户端.HandleClass.HandelControls.StringConvertByte(String address, String responseValue) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 668
+   在 集中器控制客户端.HandleClass.HandelControls.ResponseSettingParameter(Byte[] address, String groupNumber, List`1 addressArray, List`1 valueArray) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 710
+
+2017-02-24 17:51:05,331 [9] ERROR errorMsg - System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Int32.Parse(String s)
+   在 集中器控制客户端.HandleClass.HandelControls.StringConvertByte(String address, String responseValue) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 668
+   在 集中器控制客户端.ConcentratorControlClient.ValidateGroupContorls(String contorlName) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 1261
+
+2017-02-24 17:51:45,445 [9] ERROR errorMsg - System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Int32.Parse(String s)
+   在 集中器控制客户端.HandleClass.HandelControls.StringConvertByte(String address, String responseValue) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 668
+   在 集中器控制客户端.HandleClass.HandelControls.ResponseSettingParameter(Byte[] address, String groupNumber, List`1 addressArray, List`1 valueArray) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 710
+
+2017-02-24 17:51:56,208 [9] ERROR errorMsg - System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Int32.Parse(String s)
+   在 集中器控制客户端.HandleClass.HandelControls.StringConvertByte(String address, String responseValue) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 668
+   在 集中器控制客户端.ConcentratorControlClient.ValidateGroupContorls(String contorlName) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 1261
+
+2017-02-24 17:52:48,012 [9] ERROR errorMsg - System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Int32.Parse(String s)
+   在 集中器控制客户端.HandleClass.HandelControls.StringConvertByte(String address, String responseValue) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 668
+   在 集中器控制客户端.HandleClass.HandelControls.ResponseSettingParameter(Byte[] address, String groupNumber, List`1 addressArray, List`1 valueArray) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 710
+
+
+----------------------header--------------------------
+2017-02-24 18:28:16,149 [1] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.ConcentratorControlClient.SetControlValueMethod(Byte[] responseValue, String address, String contorlName) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 317
+
+2017-02-24 18:28:24,898 [1] ERROR errorMsg - System.ArgumentOutOfRangeException: InvalidArgument=“15”的值对于“SelectedIndex”无效。
+参数名: SelectedIndex
+   在 System.Windows.Forms.ComboBox.set_SelectedIndex(Int32 value)
+   在 集中器控制客户端.ConcentratorControlClient.SetControlValueMethod(Byte[] responseValue, String address, String contorlName) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 317
+
+2017-02-24 18:29:01,079 [1] ERROR errorMsg - System.ArgumentOutOfRangeException: InvalidArgument=“15”的值对于“SelectedIndex”无效。
+参数名: SelectedIndex
+   在 System.Windows.Forms.ComboBox.set_SelectedIndex(Int32 value)
+   在 集中器控制客户端.ConcentratorControlClient.SetControlValueMethod(Byte[] responseValue, String address, String contorlName) 位置 e:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 317
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------

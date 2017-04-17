@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<DetectionData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <DeviceAddress>33</DeviceAddress>
+  <DeviceLine />
+  <detectionDataArray>
+    <DetectionDataArray>
+      <DetectionName />
+      <DetectionNumber />
+      <DetectionRouteA>33</DetectionRouteA>
+      <DetectionRouteB />
+      <DetectionRouteC />
+    </DetectionDataArray>
+    <DetectionDataArray>
+      <DetectionName />
+      <DetectionNumber />
+      <DetectionRouteA />
+      <DetectionRouteB />
+      <DetectionRouteC />
+    </DetectionDataArray>
+    <DetectionDataArray>
+      <DetectionName />
+      <DetectionNumber />
+      <DetectionRouteA />
+      <DetectionRouteB />
+      <DetectionRouteC />
+    </DetectionDataArray>
+  </detectionDataArray>
+</DetectionData>

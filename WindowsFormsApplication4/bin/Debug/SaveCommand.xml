@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Name value="false" type="bool" contorlName="checkBox1">程序开始时总召</Name>
+  <!--<Name value="true" type="bool" contorlName="checkBox2">定时总召</Name>
+  <Name value="false" type="bool" contorlName="checkBox3">定时遥控</Name>
+  <Name value="true" type="bool" contorlName="checkBox4">定时心跳</Name>
+  <Name value="100" type="int" contorlName="numericUpDown1">定时总召间隔</Name>
+  <Name value="200" type="int" contorlName="numericUpDown2">定时遥控间隔</Name>
+  <Name value="300" type="int" contorlName="numericUpDown3">定时心跳间隔</Name>-->
+</Root>

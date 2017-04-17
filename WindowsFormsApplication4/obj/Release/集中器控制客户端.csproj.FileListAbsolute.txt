@@ -1,0 +1,35 @@
+C:\Users\Administrator\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Release\集中器控制客户端.exe.config
+C:\Users\Administrator\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Release\集中器控制客户端.exe
+C:\Users\Administrator\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Release\集中器控制客户端.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Release\CSkin.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Release\EntityFramework.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Release\IrisSkin2.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Release\log4net.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Release\Newtonsoft.Json.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Release\Ninject.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Release\CSkin.xml
+C:\Users\Administrator\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Release\EntityFramework.xml
+C:\Users\Administrator\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Administrator\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Release\Newtonsoft.Json.xml
+C:\Users\Administrator\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Release\Ninject.xml
+C:\Users\Administrator\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Release\zh-Hans\EntityFramework.resources.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Release\WindowsFormsApplication4.集中器控制客户端.resources
+C:\Users\Administrator\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Release\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Release\集中器控制客户端.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Release\集中器控制客户端.exe
+C:\Users\Administrator\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Release\集中器控制客户端.pdb
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\bin\Release\集中器控制客户端.exe.config
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\obj\Release\集中器控制客户端.exe
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\obj\Release\集中器控制客户端.pdb
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\bin\Release\集中器控制客户端.exe
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\bin\Release\集中器控制客户端.pdb
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\bin\Release\IrisSkin2.dll
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\bin\Release\log4net.dll
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\bin\Release\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\bin\Release\Newtonsoft.Json.xml
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\obj\Release\集中器控制客户端.ChartForm.resources
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\obj\Release\集中器控制客户端.ConcentratorControlClient.resources
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\obj\Release\集中器控制客户端.LoadingForm.resources
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\obj\Release\集中器控制客户端.Properties.Resources.resources
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\obj\Release\集中器控制客户端.csproj.GenerateResource.Cache

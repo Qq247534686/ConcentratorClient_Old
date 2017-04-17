@@ -1,0 +1,674 @@
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-04 10:05:45,401 [1] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFormatPointData(Byte[] needFormatData) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 162
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFormatChannelData(List`1 pointDataGroups) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 112
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFileSerialize(Byte[] waveByte) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 40
+   在 集中器控制客户端.HandleClass.HandleTool.ChartShow(String pullPathFile) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 800
+   在 集中器控制客户端.ConcentratorControlClient.dataGridView1_CellClick(Object sender, DataGridViewCellEventArgs e) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 552
+
+2017-01-04 10:05:51,239 [1] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFormatPointData(Byte[] needFormatData) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 162
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFormatChannelData(List`1 pointDataGroups) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 112
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFileSerialize(Byte[] waveByte) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 40
+   在 集中器控制客户端.HandleClass.HandleTool.ChartShow(String pullPathFile) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 800
+   在 集中器控制客户端.ConcentratorControlClient.dataGridView1_CellClick(Object sender, DataGridViewCellEventArgs e) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 552
+
+2017-01-04 10:05:52,150 [1] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFormatPointData(Byte[] needFormatData) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 162
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFormatChannelData(List`1 pointDataGroups) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 112
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFileSerialize(Byte[] waveByte) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 40
+   在 集中器控制客户端.HandleClass.HandleTool.ChartShow(String pullPathFile) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 800
+   在 集中器控制客户端.ConcentratorControlClient.dataGridView1_CellClick(Object sender, DataGridViewCellEventArgs e) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 552
+
+2017-01-04 10:05:56,062 [1] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFormatPointData(Byte[] needFormatData) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 162
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFormatChannelData(List`1 pointDataGroups) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 112
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFileSerialize(Byte[] waveByte) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 40
+   在 集中器控制客户端.HandleClass.HandleTool.ChartShow(String pullPathFile) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 800
+   在 集中器控制客户端.ConcentratorControlClient.dataGridView1_CellClick(Object sender, DataGridViewCellEventArgs e) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 552
+
+2017-01-04 10:05:57,134 [1] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFormatPointData(Byte[] needFormatData) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 162
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFormatChannelData(List`1 pointDataGroups) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 112
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFileSerialize(Byte[] waveByte) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 40
+   在 集中器控制客户端.HandleClass.HandleTool.ChartShow(String pullPathFile) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 800
+   在 集中器控制客户端.ConcentratorControlClient.dataGridView1_CellClick(Object sender, DataGridViewCellEventArgs e) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 552
+
+2017-01-04 10:05:57,536 [1] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFormatPointData(Byte[] needFormatData) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 162
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFormatChannelData(List`1 pointDataGroups) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 112
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFileSerialize(Byte[] waveByte) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 40
+   在 集中器控制客户端.HandleClass.HandleTool.ChartShow(String pullPathFile) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 800
+   在 集中器控制客户端.ConcentratorControlClient.dataGridView1_CellClick(Object sender, DataGridViewCellEventArgs e) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 552
+
+2017-01-04 10:05:57,926 [1] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFormatPointData(Byte[] needFormatData) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 162
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFormatChannelData(List`1 pointDataGroups) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 112
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFileSerialize(Byte[] waveByte) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 40
+   在 集中器控制客户端.HandleClass.HandleTool.ChartShow(String pullPathFile) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 800
+   在 集中器控制客户端.ConcentratorControlClient.dataGridView1_CellClick(Object sender, DataGridViewCellEventArgs e) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 552
+
+2017-01-04 10:05:58,311 [1] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFormatPointData(Byte[] needFormatData) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 162
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFormatChannelData(List`1 pointDataGroups) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 112
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFileSerialize(Byte[] waveByte) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 40
+   在 集中器控制客户端.HandleClass.HandleTool.ChartShow(String pullPathFile) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 800
+   在 集中器控制客户端.ConcentratorControlClient.dataGridView1_CellClick(Object sender, DataGridViewCellEventArgs e) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 552
+
+2017-01-04 10:05:58,701 [1] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFormatPointData(Byte[] needFormatData) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 162
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFormatChannelData(List`1 pointDataGroups) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 112
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFileSerialize(Byte[] waveByte) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 40
+   在 集中器控制客户端.HandleClass.HandleTool.ChartShow(String pullPathFile) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 800
+   在 集中器控制客户端.ConcentratorControlClient.dataGridView1_CellClick(Object sender, DataGridViewCellEventArgs e) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 552
+
+2017-01-04 10:06:17,486 [1] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFormatPointData(Byte[] needFormatData) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 162
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFormatChannelData(List`1 pointDataGroups) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 112
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFileSerialize(Byte[] waveByte) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 40
+   在 集中器控制客户端.HandleClass.HandleTool.ChartShow(String pullPathFile) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 800
+   在 集中器控制客户端.ConcentratorControlClient.dataGridView1_CellClick(Object sender, DataGridViewCellEventArgs e) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 552
+
+2017-01-04 10:06:18,341 [1] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFormatPointData(Byte[] needFormatData) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 162
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFormatChannelData(List`1 pointDataGroups) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 112
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFileSerialize(Byte[] waveByte) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 40
+   在 集中器控制客户端.HandleClass.HandleTool.ChartShow(String pullPathFile) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 800
+   在 集中器控制客户端.ConcentratorControlClient.dataGridView1_CellClick(Object sender, DataGridViewCellEventArgs e) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 552
+
+2017-01-04 10:06:19,327 [1] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFormatPointData(Byte[] needFormatData) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 162
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFormatChannelData(List`1 pointDataGroups) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 112
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFileSerialize(Byte[] waveByte) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 40
+   在 集中器控制客户端.HandleClass.HandleTool.ChartShow(String pullPathFile) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 800
+   在 集中器控制客户端.ConcentratorControlClient.dataGridView1_CellClick(Object sender, DataGridViewCellEventArgs e) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 552
+
+2017-01-04 10:06:19,982 [1] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFormatPointData(Byte[] needFormatData) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 162
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFormatChannelData(List`1 pointDataGroups) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 112
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFileSerialize(Byte[] waveByte) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 40
+   在 集中器控制客户端.HandleClass.HandleTool.ChartShow(String pullPathFile) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 800
+   在 集中器控制客户端.ConcentratorControlClient.dataGridView1_CellClick(Object sender, DataGridViewCellEventArgs e) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 552
+
+2017-01-04 10:06:20,366 [1] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFormatPointData(Byte[] needFormatData) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 162
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFormatChannelData(List`1 pointDataGroups) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 112
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFileSerialize(Byte[] waveByte) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 40
+   在 集中器控制客户端.HandleClass.HandleTool.ChartShow(String pullPathFile) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 800
+   在 集中器控制客户端.ConcentratorControlClient.dataGridView1_CellClick(Object sender, DataGridViewCellEventArgs e) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 552
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-04 10:07:42,260 [1] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFormatPointData(Byte[] needFormatData) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 162
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFormatChannelData(List`1 pointDataGroups) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 112
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFileSerialize(Byte[] waveByte) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 40
+   在 集中器控制客户端.HandleClass.HandleTool.ChartShow(String pullPathFile) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 800
+   在 集中器控制客户端.ConcentratorControlClient.dataGridView1_CellClick(Object sender, DataGridViewCellEventArgs e) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 552
+
+2017-01-04 10:07:43,151 [1] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFormatPointData(Byte[] needFormatData) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 162
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFormatChannelData(List`1 pointDataGroups) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 112
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFileSerialize(Byte[] waveByte) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 40
+   在 集中器控制客户端.HandleClass.HandleTool.ChartShow(String pullPathFile) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 800
+   在 集中器控制客户端.ConcentratorControlClient.dataGridView1_CellClick(Object sender, DataGridViewCellEventArgs e) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 552
+
+2017-01-04 10:07:45,998 [1] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFormatPointData(Byte[] needFormatData) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 162
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFormatChannelData(List`1 pointDataGroups) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 112
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFileSerialize(Byte[] waveByte) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 40
+   在 集中器控制客户端.HandleClass.HandleTool.ChartShow(String pullPathFile) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 800
+   在 集中器控制客户端.ConcentratorControlClient.dataGridView1_CellClick(Object sender, DataGridViewCellEventArgs e) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 552
+
+2017-01-04 10:07:46,645 [1] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFormatPointData(Byte[] needFormatData) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 162
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFormatChannelData(List`1 pointDataGroups) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 112
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFileSerialize(Byte[] waveByte) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 40
+   在 集中器控制客户端.HandleClass.HandleTool.ChartShow(String pullPathFile) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 800
+   在 集中器控制客户端.ConcentratorControlClient.dataGridView1_CellClick(Object sender, DataGridViewCellEventArgs e) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 552
+
+2017-01-04 10:07:47,014 [1] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFormatPointData(Byte[] needFormatData) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 162
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFormatChannelData(List`1 pointDataGroups) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 112
+   在 集中器控制客户端.HandleClass.HandleWaveData.binaryFileSerialize(Byte[] waveByte) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleWaveData.cs:行号 40
+   在 集中器控制客户端.HandleClass.HandleTool.ChartShow(String pullPathFile) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 800
+   在 集中器控制客户端.ConcentratorControlClient.dataGridView1_CellClick(Object sender, DataGridViewCellEventArgs e) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 552
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-04 10:40:21,487 [8] ERROR errorMsg - System.OverflowException: 值对于无符号的字节太大或太小。
+   在 System.Convert.ToByte(Int32 value)
+   在 集中器控制客户端.ChartForm.WriteFiles() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ChartForm.cs:行号 308
+
+2017-01-04 10:40:23,120 [8] ERROR errorMsg - System.OverflowException: 值对于无符号的字节太大或太小。
+   在 System.Convert.ToByte(Int32 value)
+   在 集中器控制客户端.ChartForm.WriteFiles() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ChartForm.cs:行号 308
+
+2017-01-04 10:40:23,707 [8] ERROR errorMsg - System.OverflowException: 值对于无符号的字节太大或太小。
+   在 System.Convert.ToByte(Int32 value)
+   在 集中器控制客户端.ChartForm.WriteFiles() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ChartForm.cs:行号 308
+
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-04 10:52:01,451 [9] ERROR errorMsg - System.FormatException: 字符串的末尾有其他无法分析的字符。
+   在 System.ParseNumbers.StringToInt(String s, Int32 radix, Int32 flags, Int32* currPos)
+   在 System.Convert.ToByte(String value, Int32 fromBase)
+   在 集中器控制客户端.HandleClass.HandleTool.strToToHexByte(String hexString) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 713
+   在 集中器控制客户端.ChartForm.WriteFiles() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ChartForm.cs:行号 309
+
+2017-01-04 10:52:17,218 [9] ERROR errorMsg - System.FormatException: 字符串的末尾有其他无法分析的字符。
+   在 System.ParseNumbers.StringToInt(String s, Int32 radix, Int32 flags, Int32* currPos)
+   在 System.Convert.ToByte(String value, Int32 fromBase)
+   在 集中器控制客户端.HandleClass.HandleTool.strToToHexByte(String hexString) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 713
+   在 集中器控制客户端.ChartForm.WriteFiles() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ChartForm.cs:行号 309
+
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-04 16:44:26,871 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.Send(Byte[] info) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 272
+
+2017-01-04 16:44:31,750 [3] ERROR errorMsg - System.ArgumentOutOfRangeException: 索引超出范围。必须为非负值并小于集合大小。
+参数名: index
+   在 System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   在 System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   在 集中器控制客户端.ConcentratorControlClient.theScoket_getTreeDataHandler(Object sender, EventArgs e) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 645
+   在 集中器控制客户端.HandleClass.HandleTool.Receive() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 123
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-04 16:45:21,593 [10] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.Send(Byte[] info) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 272
+
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-04 17:29:16,140 [9] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.GDIPanel.button1_Click(Object sender, EventArgs e) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\GDIPanel.cs:行号 140
+
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-04 17:49:51,525 [8] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.compareArray(Byte[] a, Byte[] b) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 617
+   在 集中器控制客户端.ConcentratorControlClient.AddDeviceMethod(DetectionData theDetectionData, String name) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 1406
+
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-04 18:30:00,570 [8] ERROR errorMsg - System.UnauthorizedAccessException: 对路径“C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\CreateFile\01 01\录播文件”的访问被拒绝。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   在 System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   在 System.IO.StreamWriter..ctor(String path, Boolean append)
+   在 集中器控制客户端.HandleClass.saveFileToTxT.printByteFile(Byte[] data, String fileName, Boolean ascii) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\saveFileToTxT.cs:行号 18
+   在 集中器控制客户端.ChartForm.WriteFiles() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ChartForm.cs:行号 313
+
+
+----------------------header--------------------------
+2017-01-04 18:30:47,330 [1] ERROR errorMsg - System.UnauthorizedAccessException: 对路径“C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\CreateFile\01 01\录播文件”的访问被拒绝。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   在 System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   在 System.IO.StreamWriter..ctor(String path, Boolean append)
+   在 集中器控制客户端.HandleClass.saveFileToTxT.printByteFile(Byte[] data, String fileName, Boolean ascii) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\saveFileToTxT.cs:行号 18
+   在 集中器控制客户端.ChartForm.WriteFiles() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ChartForm.cs:行号 313
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-04 18:38:41,428 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.Send(Byte[] info) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 271
+
+
+----------------------header--------------------------
+
+----------------------footer--------------------------

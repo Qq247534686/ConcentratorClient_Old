@@ -1,0 +1,378 @@
+
+----------------------header--------------------------
+2017-02-10 10:11:57,579 [1] ERROR errorMsg - System.TypeInitializationException: “集中器控制客户端.HandleClass.HandelControls”的类型初始值设定项引发异常。 ---> System.BadImageFormatException: 未能加载文件或程序集“System.Data.SQLite, Version=1.0.104.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139”或它的某一个依赖项。试图加载格式不正确的程序。
+   在 集中器控制客户端.HandleClass.SQLiteHelper.CreateDB(String dbName)
+   在 集中器控制客户端.HandleClass.SQLiteHelper..ctor() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\SQLiteHelper.cs:行号 25
+   在 集中器控制客户端.HandleClass.HandelControls..ctor() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 27
+   在 集中器控制客户端.HandleClass.HandelControls..cctor() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 31
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 集中器控制客户端.HandleClass.HandelControls.createHandelControls()
+   在 集中器控制客户端.ConcentratorControlClient.WindowLoading() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 49
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 195
+
+
+----------------------header--------------------------
+2017-02-10 10:18:00,336 [9] ERROR errorMsg - System.TypeInitializationException: “集中器控制客户端.HandleClass.HandelControls”的类型初始值设定项引发异常。 ---> System.BadImageFormatException: 未能加载文件或程序集“System.Data.SQLite, Version=1.0.104.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139”或它的某一个依赖项。试图加载格式不正确的程序。
+   在 集中器控制客户端.HandleClass.SQLiteHelper.CreateDB(String dbName)
+   在 集中器控制客户端.HandleClass.SQLiteHelper..ctor() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\SQLiteHelper.cs:行号 25
+   在 集中器控制客户端.HandleClass.HandelControls..ctor() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 27
+   在 集中器控制客户端.HandleClass.HandelControls..cctor() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 31
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 集中器控制客户端.HandleClass.HandelControls.createHandelControls()
+   在 集中器控制客户端.ConcentratorControlClient.WindowLoading() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 49
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 195
+
+
+----------------------header--------------------------
+2017-02-10 10:19:27,840 [1] ERROR errorMsg - System.TypeInitializationException: “集中器控制客户端.HandleClass.HandelControls”的类型初始值设定项引发异常。 ---> System.BadImageFormatException: 未能加载文件或程序集“System.Data.SQLite, Version=1.0.104.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139”或它的某一个依赖项。试图加载格式不正确的程序。
+   在 集中器控制客户端.HandleClass.SQLiteHelper.CreateDB(String dbName)
+   在 集中器控制客户端.HandleClass.SQLiteHelper..ctor() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\SQLiteHelper.cs:行号 25
+   在 集中器控制客户端.HandleClass.HandelControls..ctor() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 27
+   在 集中器控制客户端.HandleClass.HandelControls..cctor() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 31
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 集中器控制客户端.HandleClass.HandelControls.createHandelControls()
+   在 集中器控制客户端.ConcentratorControlClient.WindowLoading() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 49
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 195
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-10 10:21:57,644 [1] ERROR errorMsg - System.TypeInitializationException: “集中器控制客户端.HandleClass.HandelControls”的类型初始值设定项引发异常。 ---> System.BadImageFormatException: 未能加载文件或程序集“System.Data.SQLite, Version=1.0.104.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139”或它的某一个依赖项。试图加载格式不正确的程序。
+   在 集中器控制客户端.HandleClass.SQLiteHelper.CreateDB(String dbName)
+   在 集中器控制客户端.HandleClass.SQLiteHelper..ctor() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\SQLiteHelper.cs:行号 25
+   在 集中器控制客户端.HandleClass.HandelControls..ctor() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 27
+   在 集中器控制客户端.HandleClass.HandelControls..cctor() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 31
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 集中器控制客户端.HandleClass.HandelControls.createHandelControls()
+   在 集中器控制客户端.ConcentratorControlClient.WindowLoading() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 49
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 195
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-10 10:22:22,270 [9] ERROR errorMsg - System.TypeInitializationException: “集中器控制客户端.HandleClass.HandelControls”的类型初始值设定项引发异常。 ---> System.BadImageFormatException: 未能加载文件或程序集“System.Data.SQLite, Version=1.0.104.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139”或它的某一个依赖项。试图加载格式不正确的程序。
+   在 集中器控制客户端.HandleClass.SQLiteHelper.CreateDB(String dbName)
+   在 集中器控制客户端.HandleClass.SQLiteHelper..ctor() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\SQLiteHelper.cs:行号 25
+   在 集中器控制客户端.HandleClass.HandelControls..ctor() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 27
+   在 集中器控制客户端.HandleClass.HandelControls..cctor() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 31
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 集中器控制客户端.HandleClass.HandelControls.createHandelControls()
+   在 集中器控制客户端.ConcentratorControlClient.WindowLoading() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 49
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 195
+
+
+----------------------header--------------------------
+2017-02-10 10:23:54,549 [9] ERROR errorMsg - System.TypeInitializationException: “集中器控制客户端.HandleClass.HandelControls”的类型初始值设定项引发异常。 ---> System.BadImageFormatException: 未能加载文件或程序集“System.Data.SQLite, Version=1.0.104.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139”或它的某一个依赖项。试图加载格式不正确的程序。
+   在 集中器控制客户端.HandleClass.SQLiteHelper.CreateDB(String dbName)
+   在 集中器控制客户端.HandleClass.SQLiteHelper..ctor() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\SQLiteHelper.cs:行号 25
+   在 集中器控制客户端.HandleClass.HandelControls..ctor() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 27
+   在 集中器控制客户端.HandleClass.HandelControls..cctor() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 31
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 集中器控制客户端.HandleClass.HandelControls.createHandelControls()
+   在 集中器控制客户端.ConcentratorControlClient.WindowLoading() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 49
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 195
+
+2017-02-10 10:24:18,056 [11] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 192.168.1.76:8888
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 集中器控制客户端.HandleClass.HandleTool.ToThreadCreateSocket(Object obj) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 133
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-10 10:25:24,922 [1] ERROR errorMsg - System.TypeInitializationException: “集中器控制客户端.HandleClass.HandelControls”的类型初始值设定项引发异常。 ---> System.BadImageFormatException: 未能加载文件或程序集“System.Data.SQLite, Version=1.0.104.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139”或它的某一个依赖项。试图加载格式不正确的程序。
+   在 集中器控制客户端.HandleClass.SQLiteHelper.CreateDB(String dbName)
+   在 集中器控制客户端.HandleClass.SQLiteHelper..ctor() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\SQLiteHelper.cs:行号 25
+   在 集中器控制客户端.HandleClass.HandelControls..ctor() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 27
+   在 集中器控制客户端.HandleClass.HandelControls..cctor() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 31
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 集中器控制客户端.HandleClass.HandelControls.createHandelControls()
+   在 集中器控制客户端.ConcentratorControlClient.WindowLoading() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 49
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 195
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-10 10:25:59,462 [9] ERROR errorMsg - System.TypeInitializationException: “集中器控制客户端.HandleClass.HandelControls”的类型初始值设定项引发异常。 ---> System.BadImageFormatException: 未能加载文件或程序集“System.Data.SQLite, Version=1.0.104.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139”或它的某一个依赖项。试图加载格式不正确的程序。
+   在 集中器控制客户端.HandleClass.SQLiteHelper.CreateDB(String dbName)
+   在 集中器控制客户端.HandleClass.SQLiteHelper..ctor() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\SQLiteHelper.cs:行号 25
+   在 集中器控制客户端.HandleClass.HandelControls..ctor() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 27
+   在 集中器控制客户端.HandleClass.HandelControls..cctor() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 31
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 集中器控制客户端.HandleClass.HandelControls.createHandelControls()
+   在 集中器控制客户端.ConcentratorControlClient.WindowLoading() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 49
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 195
+
+
+----------------------header--------------------------
+2017-02-10 10:26:41,247 [10] ERROR errorMsg - System.TypeInitializationException: “集中器控制客户端.HandleClass.HandelControls”的类型初始值设定项引发异常。 ---> System.BadImageFormatException: 未能加载文件或程序集“System.Data.SQLite, Version=1.0.104.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139”或它的某一个依赖项。试图加载格式不正确的程序。
+   在 集中器控制客户端.HandleClass.SQLiteHelper.CreateDB(String dbName)
+   在 集中器控制客户端.HandleClass.SQLiteHelper..ctor() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\SQLiteHelper.cs:行号 25
+   在 集中器控制客户端.HandleClass.HandelControls..ctor() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 27
+   在 集中器控制客户端.HandleClass.HandelControls..cctor() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 31
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 集中器控制客户端.HandleClass.HandelControls.createHandelControls()
+   在 集中器控制客户端.ConcentratorControlClient.WindowLoading() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 49
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 195
+
+2017-02-10 10:26:49,801 [13] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.ComponentModel.Win32Exception.GetErrorMessage(Int32 error)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.receiveInfo() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 72
+
+2017-02-10 10:26:55,208 [16] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.ComponentModel.Win32Exception.TryGetErrorMessage(Int32 error, StringBuilder sb, String& errorMsg)
+   在 System.ComponentModel.Win32Exception.GetErrorMessage(Int32 error)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.receiveInfo() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 72
+
+
+----------------------header--------------------------
+2017-02-10 10:28:52,154 [1] ERROR errorMsg - System.TypeInitializationException: “集中器控制客户端.HandleClass.HandelControls”的类型初始值设定项引发异常。 ---> System.BadImageFormatException: 未能加载文件或程序集“System.Data.SQLite, Version=1.0.104.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139”或它的某一个依赖项。试图加载格式不正确的程序。
+   在 集中器控制客户端.HandleClass.SQLiteHelper.CreateDB(String dbName)
+   在 集中器控制客户端.HandleClass.SQLiteHelper..ctor() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\SQLiteHelper.cs:行号 25
+   在 集中器控制客户端.HandleClass.HandelControls..ctor() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 27
+   在 集中器控制客户端.HandleClass.HandelControls..cctor() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 31
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 集中器控制客户端.HandleClass.HandelControls.createHandelControls()
+   在 集中器控制客户端.ConcentratorControlClient.WindowLoading() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 49
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 195
+
+2017-02-10 10:29:00,359 [5] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Text.StringBuilder..ctor(String value, Int32 startIndex, Int32 length, Int32 capacity)
+   在 System.ComponentModel.Win32Exception.GetErrorMessage(Int32 error)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.receiveInfo() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 72
+
+2017-02-10 10:29:02,484 [8] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 Microsoft.Win32.SafeNativeMethods.FormatMessage(Int32 dwFlags, IntPtr lpSource_mustBeNull, UInt32 dwMessageId, Int32 dwLanguageId, StringBuilder lpBuffer, Int32 nSize, IntPtr[] arguments)
+   在 System.ComponentModel.Win32Exception.TryGetErrorMessage(Int32 error, StringBuilder sb, String& errorMsg)
+   在 System.ComponentModel.Win32Exception.GetErrorMessage(Int32 error)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.receiveInfo() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 72
+
+2017-02-10 10:29:04,500 [4] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 Microsoft.Win32.SafeNativeMethods.FormatMessage(Int32 dwFlags, IntPtr lpSource_mustBeNull, UInt32 dwMessageId, Int32 dwLanguageId, StringBuilder lpBuffer, Int32 nSize, IntPtr[] arguments)
+   在 System.ComponentModel.Win32Exception.TryGetErrorMessage(Int32 error, StringBuilder sb, String& errorMsg)
+   在 System.ComponentModel.Win32Exception.GetErrorMessage(Int32 error)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.receiveInfo() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 72
+
+2017-02-10 10:29:07,422 [8] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 Microsoft.Win32.SafeNativeMethods.FormatMessage(Int32 dwFlags, IntPtr lpSource_mustBeNull, UInt32 dwMessageId, Int32 dwLanguageId, StringBuilder lpBuffer, Int32 nSize, IntPtr[] arguments)
+   在 System.ComponentModel.Win32Exception.TryGetErrorMessage(Int32 error, StringBuilder sb, String& errorMsg)
+   在 System.ComponentModel.Win32Exception.GetErrorMessage(Int32 error)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.receiveInfo() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 72
+
+2017-02-10 10:29:08,672 [5] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 Microsoft.Win32.SafeNativeMethods.FormatMessage(Int32 dwFlags, IntPtr lpSource_mustBeNull, UInt32 dwMessageId, Int32 dwLanguageId, StringBuilder lpBuffer, Int32 nSize, IntPtr[] arguments)
+   在 System.ComponentModel.Win32Exception.TryGetErrorMessage(Int32 error, StringBuilder sb, String& errorMsg)
+   在 System.ComponentModel.Win32Exception.GetErrorMessage(Int32 error)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.receiveInfo() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 72
+
+2017-02-10 10:29:09,750 [8] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 Microsoft.Win32.SafeNativeMethods.FormatMessage(Int32 dwFlags, IntPtr lpSource_mustBeNull, UInt32 dwMessageId, Int32 dwLanguageId, StringBuilder lpBuffer, Int32 nSize, IntPtr[] arguments)
+   在 System.ComponentModel.Win32Exception.TryGetErrorMessage(Int32 error, StringBuilder sb, String& errorMsg)
+   在 System.ComponentModel.Win32Exception.GetErrorMessage(Int32 error)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.receiveInfo() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 72
+
+2017-02-10 10:29:10,860 [4] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 一个封锁操作被对 WSACancelBlockingCall 的调用中断。
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.receiveInfo() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 72
+
+2017-02-10 10:29:11,938 [8] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 Microsoft.Win32.SafeNativeMethods.FormatMessage(Int32 dwFlags, IntPtr lpSource_mustBeNull, UInt32 dwMessageId, Int32 dwLanguageId, StringBuilder lpBuffer, Int32 nSize, IntPtr[] arguments)
+   在 System.ComponentModel.Win32Exception.TryGetErrorMessage(Int32 error, StringBuilder sb, String& errorMsg)
+   在 System.ComponentModel.Win32Exception.GetErrorMessage(Int32 error)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.receiveInfo() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 72
+
+2017-02-10 10:29:13,016 [5] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 一个封锁操作被对 WSACancelBlockingCall 的调用中断。
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.receiveInfo() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 72
+
+2017-02-10 10:29:13,969 [3] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 192.168.1.76:8888
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 集中器控制客户端.HandleClass.HandleTool.ToThreadCreateSocket(Object obj) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 133
+
+2017-02-10 10:29:14,048 [8] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.receiveInfo() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 72
+
+2017-02-10 10:29:18,767 [4] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 Microsoft.Win32.SafeNativeMethods.FormatMessage(Int32 dwFlags, IntPtr lpSource_mustBeNull, UInt32 dwMessageId, Int32 dwLanguageId, StringBuilder lpBuffer, Int32 nSize, IntPtr[] arguments)
+   在 System.ComponentModel.Win32Exception.TryGetErrorMessage(Int32 error, StringBuilder sb, String& errorMsg)
+   在 System.ComponentModel.Win32Exception.GetErrorMessage(Int32 error)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.receiveInfo() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 72
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-10 10:30:26,567 [9] ERROR errorMsg - System.TypeInitializationException: “集中器控制客户端.HandleClass.HandelControls”的类型初始值设定项引发异常。 ---> System.BadImageFormatException: 未能加载文件或程序集“System.Data.SQLite, Version=1.0.104.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139”或它的某一个依赖项。试图加载格式不正确的程序。
+   在 集中器控制客户端.HandleClass.SQLiteHelper.CreateDB(String dbName)
+   在 集中器控制客户端.HandleClass.SQLiteHelper..ctor() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\SQLiteHelper.cs:行号 25
+   在 集中器控制客户端.HandleClass.HandelControls..ctor() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 27
+   在 集中器控制客户端.HandleClass.HandelControls..cctor() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 31
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 集中器控制客户端.HandleClass.HandelControls.createHandelControls()
+   在 集中器控制客户端.ConcentratorControlClient.WindowLoading() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 49
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 195
+
+2017-02-10 10:30:51,913 [11] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 192.168.1.76:8888
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 集中器控制客户端.HandleClass.HandleTool.ToThreadCreateSocket(Object obj) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 133
+
+2017-02-10 10:31:02,113 [13] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.receiveInfo() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 72
+
+2017-02-10 10:31:16,917 [11] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 Microsoft.Win32.SafeNativeMethods.FormatMessage(Int32 dwFlags, IntPtr lpSource_mustBeNull, UInt32 dwMessageId, Int32 dwLanguageId, StringBuilder lpBuffer, Int32 nSize, IntPtr[] arguments)
+   在 System.ComponentModel.Win32Exception.TryGetErrorMessage(Int32 error, StringBuilder sb, String& errorMsg)
+   在 System.ComponentModel.Win32Exception.GetErrorMessage(Int32 error)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.receiveInfo() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 72
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-10 10:34:18,280 [1] ERROR errorMsg - System.TypeInitializationException: “集中器控制客户端.HandleClass.HandelControls”的类型初始值设定项引发异常。 ---> System.BadImageFormatException: 未能加载文件或程序集“System.Data.SQLite, Version=1.0.104.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139”或它的某一个依赖项。试图加载格式不正确的程序。
+   在 集中器控制客户端.HandleClass.SQLiteHelper.CreateDB(String dbName)
+   在 集中器控制客户端.HandleClass.SQLiteHelper..ctor() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\SQLiteHelper.cs:行号 25
+   在 集中器控制客户端.HandleClass.HandelControls..ctor() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 27
+   在 集中器控制客户端.HandleClass.HandelControls..cctor() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 31
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 集中器控制客户端.HandleClass.HandelControls.createHandelControls()
+   在 集中器控制客户端.ConcentratorControlClient.WindowLoading() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 49
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 195
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-10 10:52:27,291 [1] ERROR errorMsg - System.TypeInitializationException: “集中器控制客户端.HandleClass.HandelControls”的类型初始值设定项引发异常。 ---> System.BadImageFormatException: 未能加载文件或程序集“System.Data.SQLite, Version=1.0.104.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139”或它的某一个依赖项。试图加载格式不正确的程序。
+   在 集中器控制客户端.HandleClass.SQLiteHelper.CreateDB(String dbName)
+   在 集中器控制客户端.HandleClass.SQLiteHelper..ctor() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\SQLiteHelper.cs:行号 25
+   在 集中器控制客户端.HandleClass.HandelControls..ctor() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 27
+   在 集中器控制客户端.HandleClass.HandelControls..cctor() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 31
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 集中器控制客户端.HandleClass.HandelControls.createHandelControls()
+   在 集中器控制客户端.ConcentratorControlClient.WindowLoading() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 49
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 195
+
+2017-02-10 10:52:45,880 [5] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 Microsoft.Win32.SafeNativeMethods.FormatMessage(Int32 dwFlags, IntPtr lpSource_mustBeNull, UInt32 dwMessageId, Int32 dwLanguageId, StringBuilder lpBuffer, Int32 nSize, IntPtr[] arguments)
+   在 System.ComponentModel.Win32Exception.TryGetErrorMessage(Int32 error, StringBuilder sb, String& errorMsg)
+   在 System.ComponentModel.Win32Exception.GetErrorMessage(Int32 error)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.receiveInfo() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 72
+
+2017-02-10 10:52:49,349 [3] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 192.168.1.76:8888
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 集中器控制客户端.HandleClass.HandleTool.ToThreadCreateSocket(Object obj) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 133
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-10 10:54:56,082 [9] ERROR errorMsg - System.TypeInitializationException: “集中器控制客户端.HandleClass.HandelControls”的类型初始值设定项引发异常。 ---> System.BadImageFormatException: 未能加载文件或程序集“System.Data.SQLite, Version=1.0.104.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139”或它的某一个依赖项。试图加载格式不正确的程序。
+   在 集中器控制客户端.HandleClass.SQLiteHelper.CreateDB(String dbName)
+   在 集中器控制客户端.HandleClass.SQLiteHelper..ctor() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\SQLiteHelper.cs:行号 25
+   在 集中器控制客户端.HandleClass.HandelControls..ctor() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 27
+   在 集中器控制客户端.HandleClass.HandelControls..cctor() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 31
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 集中器控制客户端.HandleClass.HandelControls.createHandelControls()
+   在 集中器控制客户端.ConcentratorControlClient.WindowLoading() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 49
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 195
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-10 10:58:13,513 [1] ERROR errorMsg - System.TypeInitializationException: “集中器控制客户端.HandleClass.HandelControls”的类型初始值设定项引发异常。 ---> System.BadImageFormatException: 未能加载文件或程序集“System.Data.SQLite, Version=1.0.104.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139”或它的某一个依赖项。试图加载格式不正确的程序。
+   在 集中器控制客户端.HandleClass.SQLiteHelper.CreateDB(String dbName)
+   在 集中器控制客户端.HandleClass.SQLiteHelper..ctor() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\SQLiteHelper.cs:行号 25
+   在 集中器控制客户端.HandleClass.HandelControls..ctor() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 27
+   在 集中器控制客户端.HandleClass.HandelControls..cctor() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 31
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 集中器控制客户端.HandleClass.HandelControls.createHandelControls()
+   在 集中器控制客户端.ConcentratorControlClient.WindowLoading() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 49
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 195
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-10 11:01:13,461 [1] ERROR errorMsg - System.TypeInitializationException: “集中器控制客户端.HandleClass.HandelControls”的类型初始值设定项引发异常。 ---> System.BadImageFormatException: 未能加载文件或程序集“System.Data.SQLite, Version=1.0.104.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139”或它的某一个依赖项。试图加载格式不正确的程序。
+   在 集中器控制客户端.HandleClass.SQLiteHelper.CreateDB(String dbName)
+   在 集中器控制客户端.HandleClass.SQLiteHelper..ctor() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\SQLiteHelper.cs:行号 25
+   在 集中器控制客户端.HandleClass.HandelControls..ctor() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 27
+   在 集中器控制客户端.HandleClass.HandelControls..cctor() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 31
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 集中器控制客户端.HandleClass.HandelControls.createHandelControls()
+   在 集中器控制客户端.ConcentratorControlClient.WindowLoading() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 49
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 195
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-10 12:53:59,430 [1] ERROR errorMsg - System.TypeInitializationException: “集中器控制客户端.HandleClass.HandelControls”的类型初始值设定项引发异常。 ---> System.BadImageFormatException: 未能加载文件或程序集“System.Data.SQLite, Version=1.0.104.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139”或它的某一个依赖项。试图加载格式不正确的程序。
+   在 集中器控制客户端.HandleClass.SQLiteHelper.CreateDB(String dbName)
+   在 集中器控制客户端.HandleClass.SQLiteHelper..ctor() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\SQLiteHelper.cs:行号 25
+   在 集中器控制客户端.HandleClass.HandelControls..ctor() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 27
+   在 集中器控制客户端.HandleClass.HandelControls..cctor() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 31
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 集中器控制客户端.HandleClass.HandelControls.createHandelControls()
+   在 集中器控制客户端.ConcentratorControlClient.WindowLoading() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 49
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 195
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-10 15:39:00,070 [1] ERROR errorMsg - System.TypeInitializationException: “集中器控制客户端.HandleClass.HandelControls”的类型初始值设定项引发异常。 ---> System.BadImageFormatException: 未能加载文件或程序集“System.Data.SQLite, Version=1.0.104.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139”或它的某一个依赖项。试图加载格式不正确的程序。
+   在 集中器控制客户端.HandleClass.SQLiteHelper.CreateDB(String dbName)
+   在 集中器控制客户端.HandleClass.SQLiteHelper..ctor() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\SQLiteHelper.cs:行号 25
+   在 集中器控制客户端.HandleClass.HandelControls..ctor() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 27
+   在 集中器控制客户端.HandleClass.HandelControls..cctor() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 31
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 集中器控制客户端.HandleClass.HandelControls.createHandelControls()
+   在 集中器控制客户端.ConcentratorControlClient.WindowLoading() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 49
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 195
+
+
+----------------------footer--------------------------

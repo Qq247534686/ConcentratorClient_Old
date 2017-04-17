@@ -1,0 +1,56 @@
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Release\集中器控制客户端.exe.config
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Release\集中器控制客户端.exe
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Release\集中器控制客户端.pdb
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Release\IrisSkin2.dll
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Release\log4net.dll
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Release\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Release\SQLite.Designer.dll
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Release\System.Data.SQLite.dll
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Release\System.Data.SQLite.EF6.dll
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Release\System.Data.SQLite.Linq.dll
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Release\EntityFramework.dll
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Release\EntityFramework.xml
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Release\zh-Hans\EntityFramework.resources.dll
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\集中器控制客户端.ChartForm.resources
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\集中器控制客户端.ConcentratorControlClient.resources
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\集中器控制客户端.MsgCircuit.resources
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\集中器控制客户端.MsgConvertingStation.resources
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\集中器控制客户端.CreateSetting.resources
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\集中器控制客户端.DataInfo.resources
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\集中器控制客户端.GDIPanel.resources
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\集中器控制客户端.MsgDetection.resources
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\集中器控制客户端.MsgDeviceSetting.resources
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\集中器控制客户端.MsgGeneratrix.resources
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\集中器控制客户端.LoadingForm.resources
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\集中器控制客户端.MsgTemplet.resources
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\集中器控制客户端.Properties.Resources.resources
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\集中器控制客户端.RouteMap.resources
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\集中器控制客户端.ShowData.resources
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\集中器控制客户端.ShowQueryData.resources
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\集中器控制客户端.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\集中器控制客户端.exe
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\集中器控制客户端.pdb
+F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Release\集中器控制客户端.exe.config
+F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\集中器控制客户端.exe
+F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\集中器控制客户端.pdb
+F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Release\集中器控制客户端.exe
+F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Release\集中器控制客户端.pdb
+F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Release\IrisSkin2.dll
+F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Release\log4net.dll
+F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Release\System.Data.SQLite.DLL
+F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Release\System.Data.SQLite.Linq.dll
+F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\集中器控制客户端.ChartForm.resources
+F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\集中器控制客户端.ConcentratorControlClient.resources
+F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\集中器控制客户端.MsgCircuit.resources
+F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\集中器控制客户端.MsgConvertingStation.resources
+F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\集中器控制客户端.CreateSetting.resources
+F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\集中器控制客户端.MsgDetection.resources
+F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\集中器控制客户端.MsgDeviceSetting.resources
+F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\集中器控制客户端.MsgGeneratrix.resources
+F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\集中器控制客户端.LoadingForm.resources
+F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\集中器控制客户端.MsgTemplet.resources
+F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\集中器控制客户端.PortSetting.resources
+F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\集中器控制客户端.Properties.Resources.resources
+F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\集中器控制客户端.RouteMap.resources
+F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\集中器控制客户端.ShowQueryData.resources
+F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\集中器控制客户端.csproj.GenerateResource.Cache

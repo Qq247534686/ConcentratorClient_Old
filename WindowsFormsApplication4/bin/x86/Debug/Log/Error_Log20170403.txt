@@ -1,0 +1,763 @@
+
+----------------------header--------------------------
+2017-04-03 09:57:07,777 [6] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 73
+
+2017-04-03 10:04:42,782 [1] ERROR errorMsg - System.UnauthorizedAccessException: 对端口“COM2”的访问被拒绝。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 集中器控制客户端.PortSetting.btn_OpenPort_Click(Object sender, EventArgs e) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\PortSetting.cs:行号 94
+
+2017-04-03 10:04:44,872 [1] ERROR errorMsg - System.UnauthorizedAccessException: 对端口“COM2”的访问被拒绝。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 集中器控制客户端.PortSetting.btn_OpenPort_Click(Object sender, EventArgs e) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\PortSetting.cs:行号 94
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-04-03 10:33:57,371 [1] ERROR errorMsg - System.ArgumentOutOfRangeException: 索引超出范围。必须为非负值并小于集合大小。
+参数名: index
+   在 System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   在 System.Collections.Generic.List`1.get_Item(Int32 index)
+   在 System.Collections.ObjectModel.Collection`1.get_Item(Int32 index)
+   在 集中器控制客户端.ChartForm.GetSeriesList(List`1 listIndex, Decimal theCount, String name) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ChartForm.cs:行号 166
+   在 集中器控制客户端.ChartForm.button1_Click(Object sender, EventArgs e) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ChartForm.cs:行号 238
+
+2017-04-03 10:34:03,986 [1] ERROR errorMsg - System.ArgumentOutOfRangeException: 索引超出范围。必须为非负值并小于集合大小。
+参数名: index
+   在 System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   在 System.Collections.Generic.List`1.get_Item(Int32 index)
+   在 System.Collections.ObjectModel.Collection`1.get_Item(Int32 index)
+   在 集中器控制客户端.ChartForm.GetSeriesList(List`1 listIndex, Decimal theCount, String name) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ChartForm.cs:行号 166
+   在 集中器控制客户端.ChartForm.button1_Click(Object sender, EventArgs e) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ChartForm.cs:行号 238
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-04-03 11:09:53,426 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 297
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-04-03 11:19:12,264 [1] ERROR errorMsg - System.ArgumentException: “ChartAreaCollection”中找不到名为“ChartArea1”的图表元素。
+   在 System.Windows.Forms.DataVisualization.Charting.ChartNamedElementCollection`1.VerifyNameReference(String name)
+   在 System.Windows.Forms.DataVisualization.Charting.Series.set_ChartArea(String value)
+   在 集中器控制客户端.ChartForm.GetZeroSerie(Int32[] listIndex) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ChartForm.cs:行号 200
+   在 集中器控制客户端.ChartForm.button1_Click(Object sender, EventArgs e) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ChartForm.cs:行号 239
+
+2017-04-03 11:19:14,381 [1] ERROR errorMsg - System.ArgumentException: “ChartAreaCollection”中找不到名为“ChartArea1”的图表元素。
+   在 System.Windows.Forms.DataVisualization.Charting.ChartNamedElementCollection`1.VerifyNameReference(String name)
+   在 System.Windows.Forms.DataVisualization.Charting.Series.set_ChartArea(String value)
+   在 集中器控制客户端.ChartForm.GetZeroSerie(Int32[] listIndex) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ChartForm.cs:行号 200
+   在 集中器控制客户端.ChartForm.button1_Click(Object sender, EventArgs e) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ChartForm.cs:行号 239
+
+2017-04-03 11:19:23,957 [1] ERROR errorMsg - System.ArgumentException: “ChartAreaCollection”中找不到名为“ChartArea1”的图表元素。
+   在 System.Windows.Forms.DataVisualization.Charting.ChartNamedElementCollection`1.VerifyNameReference(String name)
+   在 System.Windows.Forms.DataVisualization.Charting.Series.set_ChartArea(String value)
+   在 集中器控制客户端.ChartForm.GetZeroSerie(Int32[] listIndex) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ChartForm.cs:行号 200
+   在 集中器控制客户端.ChartForm.button1_Click(Object sender, EventArgs e) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ChartForm.cs:行号 239
+
+2017-04-03 11:19:25,949 [1] ERROR errorMsg - System.ArgumentException: “ChartAreaCollection”中找不到名为“ChartArea1”的图表元素。
+   在 System.Windows.Forms.DataVisualization.Charting.ChartNamedElementCollection`1.VerifyNameReference(String name)
+   在 System.Windows.Forms.DataVisualization.Charting.Series.set_ChartArea(String value)
+   在 集中器控制客户端.ChartForm.GetSeriesList(List`1 listIndex, Decimal theCount, String name) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ChartForm.cs:行号 174
+   在 集中器控制客户端.ChartForm.button1_Click(Object sender, EventArgs e) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ChartForm.cs:行号 246
+
+2017-04-03 11:19:27,895 [1] ERROR errorMsg - System.ArgumentException: “ChartAreaCollection”中找不到名为“ChartArea1”的图表元素。
+   在 System.Windows.Forms.DataVisualization.Charting.ChartNamedElementCollection`1.VerifyNameReference(String name)
+   在 System.Windows.Forms.DataVisualization.Charting.Series.set_ChartArea(String value)
+   在 集中器控制客户端.ChartForm.GetSeriesListCurrent(List`1 listIndex, Decimal theCount, String name) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ChartForm.cs:行号 132
+   在 集中器控制客户端.ChartForm.button1_Click(Object sender, EventArgs e) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ChartForm.cs:行号 250
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-04-03 11:22:20,386 [1] ERROR errorMsg - System.ArgumentException: “ChartAreaCollection”中找不到名为“ChartArea1”的图表元素。
+   在 System.Windows.Forms.DataVisualization.Charting.ChartNamedElementCollection`1.VerifyNameReference(String name)
+   在 System.Windows.Forms.DataVisualization.Charting.Series.set_ChartArea(String value)
+   在 集中器控制客户端.ChartForm.GetZeroSerie(Int32[] listIndex) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ChartForm.cs:行号 201
+   在 集中器控制客户端.ChartForm.button1_Click(Object sender, EventArgs e) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ChartForm.cs:行号 240
+
+2017-04-03 11:22:26,797 [1] ERROR errorMsg - System.ArgumentException: “ChartAreaCollection”中找不到名为“ChartArea1”的图表元素。
+   在 System.Windows.Forms.DataVisualization.Charting.ChartNamedElementCollection`1.VerifyNameReference(String name)
+   在 System.Windows.Forms.DataVisualization.Charting.Series.set_ChartArea(String value)
+   在 集中器控制客户端.ChartForm.GetZeroSerie(Int32[] listIndex) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ChartForm.cs:行号 201
+   在 集中器控制客户端.ChartForm.button1_Click(Object sender, EventArgs e) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ChartForm.cs:行号 240
+
+2017-04-03 11:22:29,132 [1] ERROR errorMsg - System.ArgumentException: “ChartAreaCollection”中找不到名为“ChartArea1”的图表元素。
+   在 System.Windows.Forms.DataVisualization.Charting.ChartNamedElementCollection`1.VerifyNameReference(String name)
+   在 System.Windows.Forms.DataVisualization.Charting.Series.set_ChartArea(String value)
+   在 集中器控制客户端.ChartForm.GetZeroSerie(Int32[] listIndex) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ChartForm.cs:行号 201
+   在 集中器控制客户端.ChartForm.button1_Click(Object sender, EventArgs e) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ChartForm.cs:行号 240
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-04-03 11:32:23,649 [1] ERROR errorMsg - System.ArgumentException: “ChartAreaCollection”中找不到名为“ChartArea0”的图表元素。
+   在 System.Windows.Forms.DataVisualization.Charting.ChartNamedElementCollection`1.get_Item(String name)
+   在 集中器控制客户端.ChartForm.GetSeriesList(List`1 listIndex, Decimal theCount, String name) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ChartForm.cs:行号 144
+   在 集中器控制客户端.ChartForm.button1_Click(Object sender, EventArgs e) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ChartForm.cs:行号 244
+
+2017-04-03 11:32:25,098 [1] ERROR errorMsg - System.ArgumentException: “ChartAreaCollection”中找不到名为“ChartArea0”的图表元素。
+   在 System.Windows.Forms.DataVisualization.Charting.ChartNamedElementCollection`1.get_Item(String name)
+   在 集中器控制客户端.ChartForm.GetSeriesList(List`1 listIndex, Decimal theCount, String name) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ChartForm.cs:行号 144
+   在 集中器控制客户端.ChartForm.button1_Click(Object sender, EventArgs e) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ChartForm.cs:行号 244
+
+2017-04-03 11:32:25,298 [1] ERROR errorMsg - System.ArgumentException: “ChartAreaCollection”中找不到名为“ChartArea0”的图表元素。
+   在 System.Windows.Forms.DataVisualization.Charting.ChartNamedElementCollection`1.get_Item(String name)
+   在 集中器控制客户端.ChartForm.GetSeriesList(List`1 listIndex, Decimal theCount, String name) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ChartForm.cs:行号 144
+   在 集中器控制客户端.ChartForm.button1_Click(Object sender, EventArgs e) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ChartForm.cs:行号 244
+
+2017-04-03 11:32:25,540 [1] ERROR errorMsg - System.ArgumentException: “ChartAreaCollection”中找不到名为“ChartArea0”的图表元素。
+   在 System.Windows.Forms.DataVisualization.Charting.ChartNamedElementCollection`1.get_Item(String name)
+   在 集中器控制客户端.ChartForm.GetSeriesList(List`1 listIndex, Decimal theCount, String name) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ChartForm.cs:行号 144
+   在 集中器控制客户端.ChartForm.button1_Click(Object sender, EventArgs e) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ChartForm.cs:行号 244
+
+2017-04-03 11:32:25,770 [1] ERROR errorMsg - System.ArgumentException: “ChartAreaCollection”中找不到名为“ChartArea0”的图表元素。
+   在 System.Windows.Forms.DataVisualization.Charting.ChartNamedElementCollection`1.get_Item(String name)
+   在 集中器控制客户端.ChartForm.GetSeriesList(List`1 listIndex, Decimal theCount, String name) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ChartForm.cs:行号 144
+   在 集中器控制客户端.ChartForm.button1_Click(Object sender, EventArgs e) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ChartForm.cs:行号 244
+
+2017-04-03 11:32:25,970 [1] ERROR errorMsg - System.ArgumentException: “ChartAreaCollection”中找不到名为“ChartArea0”的图表元素。
+   在 System.Windows.Forms.DataVisualization.Charting.ChartNamedElementCollection`1.get_Item(String name)
+   在 集中器控制客户端.ChartForm.GetSeriesList(List`1 listIndex, Decimal theCount, String name) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ChartForm.cs:行号 144
+   在 集中器控制客户端.ChartForm.button1_Click(Object sender, EventArgs e) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ChartForm.cs:行号 244
+
+2017-04-03 11:32:26,186 [1] ERROR errorMsg - System.ArgumentException: “ChartAreaCollection”中找不到名为“ChartArea0”的图表元素。
+   在 System.Windows.Forms.DataVisualization.Charting.ChartNamedElementCollection`1.get_Item(String name)
+   在 集中器控制客户端.ChartForm.GetSeriesList(List`1 listIndex, Decimal theCount, String name) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ChartForm.cs:行号 144
+   在 集中器控制客户端.ChartForm.button1_Click(Object sender, EventArgs e) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ChartForm.cs:行号 244
+
+2017-04-03 11:32:26,386 [1] ERROR errorMsg - System.ArgumentException: “ChartAreaCollection”中找不到名为“ChartArea0”的图表元素。
+   在 System.Windows.Forms.DataVisualization.Charting.ChartNamedElementCollection`1.get_Item(String name)
+   在 集中器控制客户端.ChartForm.GetSeriesList(List`1 listIndex, Decimal theCount, String name) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ChartForm.cs:行号 144
+   在 集中器控制客户端.ChartForm.button1_Click(Object sender, EventArgs e) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ChartForm.cs:行号 244
+
+2017-04-03 11:32:26,619 [1] ERROR errorMsg - System.ArgumentException: “ChartAreaCollection”中找不到名为“ChartArea0”的图表元素。
+   在 System.Windows.Forms.DataVisualization.Charting.ChartNamedElementCollection`1.get_Item(String name)
+   在 集中器控制客户端.ChartForm.GetSeriesList(List`1 listIndex, Decimal theCount, String name) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ChartForm.cs:行号 144
+   在 集中器控制客户端.ChartForm.button1_Click(Object sender, EventArgs e) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ChartForm.cs:行号 244
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-04-03 13:01:12,361 [1] ERROR errorMsg - System.ArgumentException: “SeriesCollection”中找不到名为“ChartAreaZero”的图表元素。
+   在 System.Windows.Forms.DataVisualization.Charting.ChartNamedElementCollection`1.get_Item(String name)
+   在 集中器控制客户端.ChartForm.GetZeroSerie(Int32[] listIndex) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ChartForm.cs:行号 204
+   在 集中器控制客户端.ChartForm.button1_Click(Object sender, EventArgs e) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ChartForm.cs:行号 271
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-04-03 13:02:05,583 [1] ERROR errorMsg - System.ArgumentException: “SeriesCollection”中找不到名为“ChartAreaZero”的图表元素。
+   在 System.Windows.Forms.DataVisualization.Charting.ChartNamedElementCollection`1.get_Item(String name)
+   在 集中器控制客户端.ChartForm.GetZeroSerie(Int32[] listIndex) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ChartForm.cs:行号 208
+   在 集中器控制客户端.ChartForm.button1_Click(Object sender, EventArgs e) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ChartForm.cs:行号 272
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-04-03 14:00:19,936 [1] ERROR errorMsg - System.FormatException: 未能找到任何可识别的数字。
+   在 System.ParseNumbers.StringToInt(String s, Int32 radix, Int32 flags, Int32* currPos)
+   在 System.Convert.ToByte(String value, Int32 fromBase)
+   在 集中器控制客户端.HandleClass.ByteWithString.strToToHexByte(String hexString) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\ByteWithString.cs:行号 63
+   在 集中器控制客户端.HandleClass.ByteWithString.FileStreamTobyteArray(String filePath) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\ByteWithString.cs:行号 148
+   在 集中器控制客户端.ConcentratorControlClient.dataGridView1_CellClick(Object sender, DataGridViewCellEventArgs e) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 726
+
+2017-04-03 14:00:21,660 [1] ERROR errorMsg - System.FormatException: 未能找到任何可识别的数字。
+   在 System.ParseNumbers.StringToInt(String s, Int32 radix, Int32 flags, Int32* currPos)
+   在 System.Convert.ToByte(String value, Int32 fromBase)
+   在 集中器控制客户端.HandleClass.ByteWithString.strToToHexByte(String hexString) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\ByteWithString.cs:行号 63
+   在 集中器控制客户端.HandleClass.ByteWithString.FileStreamTobyteArray(String filePath) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\ByteWithString.cs:行号 148
+   在 集中器控制客户端.ConcentratorControlClient.dataGridView1_CellClick(Object sender, DataGridViewCellEventArgs e) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 751
+
+2017-04-03 14:00:22,652 [1] ERROR errorMsg - System.FormatException: 未能找到任何可识别的数字。
+   在 System.ParseNumbers.StringToInt(String s, Int32 radix, Int32 flags, Int32* currPos)
+   在 System.Convert.ToByte(String value, Int32 fromBase)
+   在 集中器控制客户端.HandleClass.ByteWithString.strToToHexByte(String hexString) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\ByteWithString.cs:行号 63
+   在 集中器控制客户端.HandleClass.ByteWithString.FileStreamTobyteArray(String filePath) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\ByteWithString.cs:行号 148
+   在 集中器控制客户端.HandleClass.HandelControls.ChartShow(String pullPathFile) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 509
+   在 集中器控制客户端.ConcentratorControlClient.dataGridView1_CellClick(Object sender, DataGridViewCellEventArgs e) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 714
+
+2017-04-03 14:02:38,116 [1] ERROR errorMsg - System.FormatException: 未能找到任何可识别的数字。
+   在 System.ParseNumbers.StringToInt(String s, Int32 radix, Int32 flags, Int32* currPos)
+   在 System.Convert.ToByte(String value, Int32 fromBase)
+   在 集中器控制客户端.HandleClass.ByteWithString.strToToHexByte(String hexString) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\ByteWithString.cs:行号 63
+   在 集中器控制客户端.HandleClass.ByteWithString.FileStreamTobyteArray(String filePath) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\ByteWithString.cs:行号 148
+   在 集中器控制客户端.HandleClass.HandelControls.ChartShow(String pullPathFile) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 509
+   在 集中器控制客户端.ConcentratorControlClient.dataGridView1_CellClick(Object sender, DataGridViewCellEventArgs e) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 714
+
+2017-04-03 14:02:39,813 [1] ERROR errorMsg - System.FormatException: 未能找到任何可识别的数字。
+   在 System.ParseNumbers.StringToInt(String s, Int32 radix, Int32 flags, Int32* currPos)
+   在 System.Convert.ToByte(String value, Int32 fromBase)
+   在 集中器控制客户端.HandleClass.ByteWithString.strToToHexByte(String hexString) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\ByteWithString.cs:行号 63
+   在 集中器控制客户端.HandleClass.ByteWithString.FileStreamTobyteArray(String filePath) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\ByteWithString.cs:行号 148
+   在 集中器控制客户端.HandleClass.HandelControls.ChartShow(String pullPathFile) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 509
+   在 集中器控制客户端.ConcentratorControlClient.dataGridView1_CellClick(Object sender, DataGridViewCellEventArgs e) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 714
+
+2017-04-03 14:03:16,397 [1] ERROR errorMsg - System.FormatException: 未能找到任何可识别的数字。
+   在 System.ParseNumbers.StringToInt(String s, Int32 radix, Int32 flags, Int32* currPos)
+   在 System.Convert.ToByte(String value, Int32 fromBase)
+   在 集中器控制客户端.HandleClass.ByteWithString.strToToHexByte(String hexString) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\ByteWithString.cs:行号 63
+   在 集中器控制客户端.HandleClass.ByteWithString.FileStreamTobyteArray(String filePath) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\ByteWithString.cs:行号 148
+   在 集中器控制客户端.ConcentratorControlClient.dataGridView1_CellClick(Object sender, DataGridViewCellEventArgs e) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 726
+
+2017-04-03 14:03:18,593 [1] ERROR errorMsg - System.FormatException: 未能找到任何可识别的数字。
+   在 System.ParseNumbers.StringToInt(String s, Int32 radix, Int32 flags, Int32* currPos)
+   在 System.Convert.ToByte(String value, Int32 fromBase)
+   在 集中器控制客户端.HandleClass.ByteWithString.strToToHexByte(String hexString) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\ByteWithString.cs:行号 63
+   在 集中器控制客户端.HandleClass.ByteWithString.FileStreamTobyteArray(String filePath) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\ByteWithString.cs:行号 148
+   在 集中器控制客户端.ConcentratorControlClient.dataGridView1_CellClick(Object sender, DataGridViewCellEventArgs e) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 726
+
+2017-04-03 14:03:20,645 [1] ERROR errorMsg - System.FormatException: 未能找到任何可识别的数字。
+   在 System.ParseNumbers.StringToInt(String s, Int32 radix, Int32 flags, Int32* currPos)
+   在 System.Convert.ToByte(String value, Int32 fromBase)
+   在 集中器控制客户端.HandleClass.ByteWithString.strToToHexByte(String hexString) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\ByteWithString.cs:行号 63
+   在 集中器控制客户端.HandleClass.ByteWithString.FileStreamTobyteArray(String filePath) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\ByteWithString.cs:行号 148
+   在 集中器控制客户端.ConcentratorControlClient.dataGridView1_CellClick(Object sender, DataGridViewCellEventArgs e) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 726
+
+2017-04-03 14:03:21,718 [1] ERROR errorMsg - System.FormatException: 未能找到任何可识别的数字。
+   在 System.ParseNumbers.StringToInt(String s, Int32 radix, Int32 flags, Int32* currPos)
+   在 System.Convert.ToByte(String value, Int32 fromBase)
+   在 集中器控制客户端.HandleClass.ByteWithString.strToToHexByte(String hexString) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\ByteWithString.cs:行号 63
+   在 集中器控制客户端.HandleClass.ByteWithString.FileStreamTobyteArray(String filePath) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\ByteWithString.cs:行号 148
+   在 集中器控制客户端.ConcentratorControlClient.dataGridView1_CellClick(Object sender, DataGridViewCellEventArgs e) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 726
+
+2017-04-03 14:03:22,252 [1] ERROR errorMsg - System.FormatException: 未能找到任何可识别的数字。
+   在 System.ParseNumbers.StringToInt(String s, Int32 radix, Int32 flags, Int32* currPos)
+   在 System.Convert.ToByte(String value, Int32 fromBase)
+   在 集中器控制客户端.HandleClass.ByteWithString.strToToHexByte(String hexString) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\ByteWithString.cs:行号 63
+   在 集中器控制客户端.HandleClass.ByteWithString.FileStreamTobyteArray(String filePath) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\ByteWithString.cs:行号 148
+   在 集中器控制客户端.ConcentratorControlClient.dataGridView1_CellClick(Object sender, DataGridViewCellEventArgs e) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 751
+
+2017-04-03 14:03:42,292 [1] ERROR errorMsg - System.FormatException: 未能找到任何可识别的数字。
+   在 System.ParseNumbers.StringToInt(String s, Int32 radix, Int32 flags, Int32* currPos)
+   在 System.Convert.ToByte(String value, Int32 fromBase)
+   在 集中器控制客户端.HandleClass.ByteWithString.strToToHexByte(String hexString) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\ByteWithString.cs:行号 63
+   在 集中器控制客户端.HandleClass.ByteWithString.FileStreamTobyteArray(String filePath) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\ByteWithString.cs:行号 148
+   在 集中器控制客户端.ConcentratorControlClient.dataGridView1_CellClick(Object sender, DataGridViewCellEventArgs e) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 726
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-04-03 15:11:41,973 [9] ERROR errorMsg - System.FormatException: 未能找到任何可识别的数字。
+   在 System.ParseNumbers.StringToInt(String s, Int32 radix, Int32 flags, Int32* currPos)
+   在 System.Convert.ToByte(String value, Int32 fromBase)
+   在 集中器控制客户端.HandleClass.ByteWithString.strToToHexByte(String hexString) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\ByteWithString.cs:行号 63
+   在 集中器控制客户端.HandleClass.ByteWithString.FileStreamTobyteArray(String filePath) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\ByteWithString.cs:行号 148
+   在 集中器控制客户端.HandleClass.HandelControls.ChartShow(String pullPathFile) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 509
+   在 集中器控制客户端.ConcentratorControlClient.dataGridView1_CellClick(Object sender, DataGridViewCellEventArgs e) 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 716
+
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-04-03 15:13:22,506 [6] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 73
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-04-03 16:28:35,880 [9] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.ChartForm.button1_Click(Object sender, EventArgs e)
+
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------

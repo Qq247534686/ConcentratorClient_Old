@@ -1,0 +1,537 @@
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-07 09:50:09,246 [1] ERROR errorMsg - System.IO.DirectoryNotFoundException: 未能找到路径“C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\FileCatalog\01 01\录播文件\BAY01_170106_142655_140.dat”的一部分。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   在 System.IO.StreamReader..ctor(String path)
+   在 集中器控制客户端.HandleClass.HandleTool.FileStreamTobyteArray(String filePath) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 779
+   在 集中器控制客户端.ShowData.GetIndex(Int32 index) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ShowData.cs:行号 70
+   在 集中器控制客户端.ShowData.SettingName() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ShowData.cs:行号 40
+
+2017-01-07 09:50:12,179 [1] ERROR errorMsg - System.IO.DirectoryNotFoundException: 未能找到路径“C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\FileCatalog\01 01\录播文件\BAY01_170106_142655_140.dat”的一部分。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   在 System.IO.StreamReader..ctor(String path)
+   在 集中器控制客户端.HandleClass.HandleTool.FileStreamTobyteArray(String filePath) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 779
+   在 集中器控制客户端.ShowData.GetIndex(Int32 index) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ShowData.cs:行号 70
+   在 集中器控制客户端.ShowData.SettingName() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ShowData.cs:行号 40
+
+2017-01-07 09:50:16,047 [1] ERROR errorMsg - System.ArgumentOutOfRangeException: 索引超出范围。必须为非负值并小于集合大小。
+参数名: index
+   在 System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   在 System.Collections.Generic.List`1.get_Item(Int32 index)
+   在 集中器控制客户端.ShowData.GetIndex(Int32 index) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ShowData.cs:行号 67
+   在 集中器控制客户端.ShowData.SettingName() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ShowData.cs:行号 40
+
+2017-01-07 09:50:18,894 [1] ERROR errorMsg - System.IO.DirectoryNotFoundException: 未能找到路径“C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\FileCatalog\01 01\录播文件\BAY01_170106_142655_140.dat”的一部分。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   在 System.IO.StreamReader..ctor(String path)
+   在 集中器控制客户端.HandleClass.HandleTool.FileStreamTobyteArray(String filePath) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 779
+   在 集中器控制客户端.ShowData.GetIndex(Int32 index) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ShowData.cs:行号 70
+   在 集中器控制客户端.ShowData.SettingName() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ShowData.cs:行号 40
+
+2017-01-07 09:50:25,359 [1] ERROR errorMsg - System.ArgumentOutOfRangeException: 索引超出范围。必须为非负值并小于集合大小。
+参数名: index
+   在 System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   在 System.Collections.Generic.List`1.get_Item(Int32 index)
+   在 集中器控制客户端.ShowData.GetIndex(Int32 index) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ShowData.cs:行号 67
+   在 集中器控制客户端.ShowData.SettingName() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ShowData.cs:行号 40
+
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-07 10:01:37,543 [1] ERROR errorMsg - System.FormatException: 字符串的末尾有其他无法分析的字符。
+   在 System.ParseNumbers.StringToInt(String s, Int32 radix, Int32 flags, Int32* currPos)
+   在 System.Convert.ToByte(String value, Int32 fromBase)
+   在 集中器控制客户端.HandleClass.HandleTool.strToToHexByte(String hexString) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 696
+   在 集中器控制客户端.ConcentratorControlClient.GetTagToByteArray() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 543
+
+2017-01-07 10:01:37,559 [1] ERROR errorMsg - System.FormatException: 字符串的末尾有其他无法分析的字符。
+   在 System.ParseNumbers.StringToInt(String s, Int32 radix, Int32 flags, Int32* currPos)
+   在 System.Convert.ToByte(String value, Int32 fromBase)
+   在 集中器控制客户端.HandleClass.HandleTool.strToToHexByte(String hexString) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 696
+   在 集中器控制客户端.ConcentratorControlClient.GetTagToByteArray() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 543
+
+2017-01-07 10:01:38,171 [1] ERROR errorMsg - System.FormatException: 字符串的末尾有其他无法分析的字符。
+   在 System.ParseNumbers.StringToInt(String s, Int32 radix, Int32 flags, Int32* currPos)
+   在 System.Convert.ToByte(String value, Int32 fromBase)
+   在 集中器控制客户端.HandleClass.HandleTool.strToToHexByte(String hexString) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 696
+   在 集中器控制客户端.ConcentratorControlClient.GetTagToByteArray() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 543
+
+2017-01-07 10:01:38,171 [1] ERROR errorMsg - System.FormatException: 字符串的末尾有其他无法分析的字符。
+   在 System.ParseNumbers.StringToInt(String s, Int32 radix, Int32 flags, Int32* currPos)
+   在 System.Convert.ToByte(String value, Int32 fromBase)
+   在 集中器控制客户端.HandleClass.HandleTool.strToToHexByte(String hexString) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 696
+   在 集中器控制客户端.ConcentratorControlClient.GetTagToByteArray() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 543
+
+2017-01-07 10:01:38,907 [1] ERROR errorMsg - System.FormatException: 字符串的末尾有其他无法分析的字符。
+   在 System.ParseNumbers.StringToInt(String s, Int32 radix, Int32 flags, Int32* currPos)
+   在 System.Convert.ToByte(String value, Int32 fromBase)
+   在 集中器控制客户端.HandleClass.HandleTool.strToToHexByte(String hexString) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 696
+   在 集中器控制客户端.ConcentratorControlClient.GetTagToByteArray() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 543
+
+2017-01-07 10:01:38,907 [1] ERROR errorMsg - System.FormatException: 字符串的末尾有其他无法分析的字符。
+   在 System.ParseNumbers.StringToInt(String s, Int32 radix, Int32 flags, Int32* currPos)
+   在 System.Convert.ToByte(String value, Int32 fromBase)
+   在 集中器控制客户端.HandleClass.HandleTool.strToToHexByte(String hexString) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 696
+   在 集中器控制客户端.ConcentratorControlClient.GetTagToByteArray() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 543
+
+2017-01-07 10:01:42,858 [1] ERROR errorMsg - System.FormatException: 字符串的末尾有其他无法分析的字符。
+   在 System.ParseNumbers.StringToInt(String s, Int32 radix, Int32 flags, Int32* currPos)
+   在 System.Convert.ToByte(String value, Int32 fromBase)
+   在 集中器控制客户端.HandleClass.HandleTool.strToToHexByte(String hexString) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 696
+   在 集中器控制客户端.ConcentratorControlClient.GetTagToByteArray() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 543
+
+2017-01-07 10:01:42,859 [1] ERROR errorMsg - System.FormatException: 字符串的末尾有其他无法分析的字符。
+   在 System.ParseNumbers.StringToInt(String s, Int32 radix, Int32 flags, Int32* currPos)
+   在 System.Convert.ToByte(String value, Int32 fromBase)
+   在 集中器控制客户端.HandleClass.HandleTool.strToToHexByte(String hexString) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 696
+   在 集中器控制客户端.ConcentratorControlClient.GetTagToByteArray() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 543
+
+2017-01-07 10:01:43,570 [1] ERROR errorMsg - System.FormatException: 字符串的末尾有其他无法分析的字符。
+   在 System.ParseNumbers.StringToInt(String s, Int32 radix, Int32 flags, Int32* currPos)
+   在 System.Convert.ToByte(String value, Int32 fromBase)
+   在 集中器控制客户端.HandleClass.HandleTool.strToToHexByte(String hexString) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 696
+   在 集中器控制客户端.ConcentratorControlClient.GetTagToByteArray() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 543
+
+2017-01-07 10:01:43,570 [1] ERROR errorMsg - System.FormatException: 字符串的末尾有其他无法分析的字符。
+   在 System.ParseNumbers.StringToInt(String s, Int32 radix, Int32 flags, Int32* currPos)
+   在 System.Convert.ToByte(String value, Int32 fromBase)
+   在 集中器控制客户端.HandleClass.HandleTool.strToToHexByte(String hexString) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 696
+   在 集中器控制客户端.ConcentratorControlClient.GetTagToByteArray() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 543
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-07 10:50:07,955 [1] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 192.168.1.72:8887
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 集中器控制客户端.HandleClass.HandleTool.Run(String ip, String port, String user_Txt, String Pws_Txt) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 188
+
+2017-01-07 10:50:11,368 [1] ERROR errorMsg - System.FormatException: 字符串的末尾有其他无法分析的字符。
+   在 System.ParseNumbers.StringToInt(String s, Int32 radix, Int32 flags, Int32* currPos)
+   在 System.Convert.ToByte(String value, Int32 fromBase)
+   在 集中器控制客户端.HandleClass.HandleTool.strToToHexByte(String hexString) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 696
+   在 集中器控制客户端.ConcentratorControlClient.GetTagToByteArray() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 543
+
+2017-01-07 10:50:11,368 [1] ERROR errorMsg - System.FormatException: 字符串的末尾有其他无法分析的字符。
+   在 System.ParseNumbers.StringToInt(String s, Int32 radix, Int32 flags, Int32* currPos)
+   在 System.Convert.ToByte(String value, Int32 fromBase)
+   在 集中器控制客户端.HandleClass.HandleTool.strToToHexByte(String hexString) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 696
+   在 集中器控制客户端.ConcentratorControlClient.GetTagToByteArray() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 543
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-07 10:51:18,848 [1] ERROR errorMsg - System.FormatException: 字符串的末尾有其他无法分析的字符。
+   在 System.ParseNumbers.StringToInt(String s, Int32 radix, Int32 flags, Int32* currPos)
+   在 System.Convert.ToByte(String value, Int32 fromBase)
+   在 集中器控制客户端.HandleClass.HandleTool.strToToHexByte(String hexString) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 696
+   在 集中器控制客户端.ConcentratorControlClient.GetTagToByteArray() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 543
+
+2017-01-07 10:51:21,532 [1] ERROR errorMsg - System.FormatException: 字符串的末尾有其他无法分析的字符。
+   在 System.ParseNumbers.StringToInt(String s, Int32 radix, Int32 flags, Int32* currPos)
+   在 System.Convert.ToByte(String value, Int32 fromBase)
+   在 集中器控制客户端.HandleClass.HandleTool.strToToHexByte(String hexString) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 696
+   在 集中器控制客户端.ConcentratorControlClient.GetTagToByteArray() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 543
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-07 10:53:55,210 [1] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 192.168.1.72:8887
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 集中器控制客户端.HandleClass.HandleTool.Run(String ip, String port, String user_Txt, String Pws_Txt) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 188
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-07 10:56:59,105 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.Send(Byte[] info) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 271
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-07 11:28:52,992 [1] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 192.168.1.72:8887
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 集中器控制客户端.HandleClass.HandleTool.Run(String ip, String port, String user_Txt, String Pws_Txt) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 188
+
+2017-01-07 11:29:06,244 [3] ERROR errorMsg - System.InvalidOperationException: 线程间操作无效: 从不是创建控件“btn_Connect”的线程访问它。
+   在 System.Windows.Forms.Control.get_Handle()
+   在 System.Windows.Forms.Control.set_WindowText(String value)
+   在 System.Windows.Forms.Control.set_Text(String value)
+   在 集中器控制客户端.ConcentratorControlClient.BtnRestore(String btnTxt, String imgName) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 1030
+   在 集中器控制客户端.ConcentratorControlClient.theScoket_loginHandler(Object sender, EventArgs e) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 610
+   在 集中器控制客户端.HandleClass.HandleTool.Receive() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 117
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-07 11:29:30,035 [5] ERROR errorMsg - System.InvalidOperationException: 线程间操作无效: 从不是创建控件“btn_Connect”的线程访问它。
+   在 System.Windows.Forms.Control.get_Handle()
+   在 System.Windows.Forms.Control.set_WindowText(String value)
+   在 System.Windows.Forms.Control.set_Text(String value)
+   在 集中器控制客户端.ConcentratorControlClient.BtnRestore(String btnTxt, String imgName) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 1030
+   在 集中器控制客户端.ConcentratorControlClient.theScoket_loginHandler(Object sender, EventArgs e) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 610
+   在 集中器控制客户端.HandleClass.HandleTool.Receive() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 117
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-07 12:37:43,916 [5] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   在 System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   在 集中器控制客户端.ConcentratorControlClient.theScoket_getTreeDataHandler(Object sender, EventArgs e) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 786
+   在 集中器控制客户端.HandleClass.HandleTool.Receive() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 122
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-07 14:36:58,315 [1] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 192.168.1.72:8887
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 集中器控制客户端.HandleClass.HandleTool.Run(String ip, String port, String user_Txt, String Pws_Txt) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 188
+
+2017-01-07 14:37:38,034 [3] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 101
+
+2017-01-07 14:37:58,885 [3] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 101
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-07 14:49:30,101 [1] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 192.168.1.72:8887
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 集中器控制客户端.HandleClass.HandleTool.Run(String ip, String port, String user_Txt, String Pws_Txt) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 188
+
+2017-01-07 14:50:27,917 [1] ERROR errorMsg - System.ArgumentOutOfRangeException: 索引超出范围。必须为非负值并小于集合大小。
+参数名: index
+   在 System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   在 System.Collections.Generic.List`1.get_Item(Int32 index)
+   在 集中器控制客户端.ShowData.GetIndex(Int32 index) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ShowData.cs:行号 67
+   在 集中器控制客户端.ShowData.SettingName() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ShowData.cs:行号 40
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-07 14:59:53,737 [3] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 106
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-07 15:00:39,522 [3] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 106
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-07 16:44:35,727 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.Send(Byte[] info) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 271
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-07 16:57:10,018 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.Send(Byte[] info) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 271
+
+
+----------------------header--------------------------
+2017-01-07 17:19:22,934 [1] ERROR errorMsg - System.ArgumentOutOfRangeException: 索引超出范围。必须为非负值并小于集合大小。
+参数名: index
+   在 System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   在 System.Collections.Generic.List`1.get_Item(Int32 index)
+   在 集中器控制客户端.ShowData.GetIndex(Int32 index) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ShowData.cs:行号 67
+   在 集中器控制客户端.ShowData.SettingName() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ShowData.cs:行号 40
+
+2017-01-07 17:19:27,427 [1] ERROR errorMsg - System.ArgumentOutOfRangeException: 索引超出范围。必须为非负值并小于集合大小。
+参数名: index
+   在 System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   在 System.Collections.Generic.List`1.get_Item(Int32 index)
+   在 集中器控制客户端.ShowData.GetIndex(Int32 index) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ShowData.cs:行号 67
+   在 集中器控制客户端.ShowData.SettingName() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ShowData.cs:行号 40
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-07 17:41:07,696 [1] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 192.168.1.72:8887
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 集中器控制客户端.HandleClass.HandleTool.Run(String ip, String port, String user_Txt, String Pws_Txt) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 188
+
+2017-01-07 17:42:17,657 [3] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 126
+
+2017-01-07 17:42:17,665 [3] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.Receive() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 116
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-07 17:47:07,059 [5] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 126
+
+2017-01-07 17:47:07,089 [5] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.Receive() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 116
+
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-07 17:57:05,315 [5] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 150
+
+2017-01-07 17:57:05,607 [5] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   在 System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   在 集中器控制客户端.ConcentratorControlClient.theScoket_getTreeDataHandler(Object sender, EventArgs e) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 805
+   在 集中器控制客户端.HandleClass.HandleTool.Receive() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 122
+
+
+----------------------header--------------------------
+2017-01-07 17:58:04,506 [1] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 192.168.1.72:8887
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 集中器控制客户端.HandleClass.HandleTool.Run(String ip, String port, String user_Txt, String Pws_Txt) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 188
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-07 18:00:42,000 [5] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 150
+
+2017-01-07 18:00:42,200 [5] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   在 System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   在 集中器控制客户端.ConcentratorControlClient.theScoket_getTreeDataHandler(Object sender, EventArgs e) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 805
+   在 集中器控制客户端.HandleClass.HandleTool.Receive() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 122
+
+
+----------------------footer--------------------------

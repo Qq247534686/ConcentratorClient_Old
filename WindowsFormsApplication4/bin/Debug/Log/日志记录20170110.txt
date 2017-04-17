@@ -1,0 +1,541 @@
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-10 11:59:27,446 [13] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 117
+
+
+----------------------header--------------------------
+2017-01-10 12:00:15,011 [10] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 192.168.1.76:8888
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 集中器控制客户端.HandleClass.HandleTool.createSocket(String ip, String port, String user_Txt, String Pws_Txt) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 178
+
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-10 14:55:03,076 [10] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 390
+
+2017-01-10 14:55:03,290 [10] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 217
+   在 集中器控制客户端.HandleClass.HandleTool.receiveInfo() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 67
+
+2017-01-10 14:55:15,469 [8] ERROR errorMsg - System.ObjectDisposedException: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 234
+
+2017-01-10 14:55:28,790 [8] ERROR errorMsg - System.ObjectDisposedException: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 234
+
+2017-01-10 14:55:34,158 [12] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 390
+
+2017-01-10 14:55:35,251 [12] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 217
+   在 集中器控制客户端.HandleClass.HandleTool.receiveInfo() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 67
+
+2017-01-10 14:55:52,186 [8] ERROR errorMsg - System.ObjectDisposedException: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 234
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-10 15:04:48,338 [11] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 390
+
+2017-01-10 15:04:49,848 [11] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 217
+   在 集中器控制客户端.HandleClass.HandleTool.receiveInfo() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 67
+
+2017-01-10 15:05:00,441 [12] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 390
+
+2017-01-10 15:05:29,159 [12] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 217
+   在 集中器控制客户端.HandleClass.HandleTool.receiveInfo() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 67
+
+2017-01-10 15:06:07,261 [9] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 390
+
+
+----------------------header--------------------------
+2017-01-10 15:08:59,213 [12] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 390
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-10 15:12:09,367 [3] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 390
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-10 15:30:40,566 [3] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 390
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-10 15:32:11,814 [3] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 390
+
+2017-01-10 15:32:14,891 [3] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 217
+   在 集中器控制客户端.HandleClass.HandleTool.receiveInfo() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 67
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-10 15:33:16,636 [3] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 390
+
+2017-01-10 15:34:33,972 [3] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.receiveInfo() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 64
+
+2017-01-10 15:34:35,558 [11] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 390
+
+2017-01-10 15:35:02,118 [11] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 远程主机强迫关闭了一个现有的连接。
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.receiveInfo() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 64
+
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-10 15:35:59,095 [11] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 390
+
+
+----------------------header--------------------------
+2017-01-10 15:40:11,989 [12] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 390
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-10 15:41:08,868 [11] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 390
+
+
+----------------------header--------------------------
+2017-01-10 15:42:53,843 [3] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 390
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-10 15:48:12,748 [3] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 390
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-10 15:48:45,572 [3] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 390
+
+2017-01-10 15:48:48,627 [3] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 217
+   在 集中器控制客户端.HandleClass.HandleTool.receiveInfo() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 67
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-10 16:14:42,201 [1] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 192.168.1.76:8888
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 集中器控制客户端.HandleClass.HandleTool.createSocket(String ip, String port, String user_Txt, String Pws_Txt) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 178
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-10 16:15:34,702 [1] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 192.168.1.76:8888
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 集中器控制客户端.HandleClass.HandleTool.createSocket(String ip, String port, String user_Txt, String Pws_Txt) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 178
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-10 16:15:48,361 [1] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 192.168.1.76:8888
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 集中器控制客户端.HandleClass.HandleTool.createSocket(String ip, String port, String user_Txt, String Pws_Txt) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 178
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-10 16:16:12,214 [1] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 192.168.1.76:8888
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 集中器控制客户端.HandleClass.HandleTool.createSocket(String ip, String port, String user_Txt, String Pws_Txt) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 178
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-10 16:17:00,008 [3] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 401
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-10 16:18:28,436 [11] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 401
+
+2017-01-10 16:18:35,441 [11] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.receiveInfo() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 64
+
+2017-01-10 16:18:36,243 [12] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 401
+
+2017-01-10 16:18:36,787 [12] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 217
+   在 集中器控制客户端.HandleClass.HandleTool.receiveInfo() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 67
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-10 16:18:49,170 [11] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 401
+
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-10 16:24:07,857 [3] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 401
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-10 16:29:24,590 [3] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 401
+
+2017-01-10 16:29:27,591 [3] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 217
+   在 集中器控制客户端.HandleClass.HandleTool.receiveInfo() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 67
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-10 16:29:42,685 [3] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 401
+
+2017-01-10 16:29:45,687 [3] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 217
+   在 集中器控制客户端.HandleClass.HandleTool.receiveInfo() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 67
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-10 16:30:12,953 [3] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 401
+
+2017-01-10 16:30:16,030 [3] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 217
+   在 集中器控制客户端.HandleClass.HandleTool.receiveInfo() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 67
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-10 16:32:15,711 [3] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 401
+
+2017-01-10 16:32:18,791 [3] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 217
+   在 集中器控制客户端.HandleClass.HandleTool.receiveInfo() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 67
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-10 16:32:40,708 [3] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 401
+
+2017-01-10 16:32:43,704 [3] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 217
+   在 集中器控制客户端.HandleClass.HandleTool.receiveInfo() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 67
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-10 16:34:19,517 [3] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 401
+
+2017-01-10 16:34:22,511 [3] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 217
+   在 集中器控制客户端.HandleClass.HandleTool.receiveInfo() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 67
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-10 16:38:14,219 [3] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 401
+
+2017-01-10 16:38:17,226 [3] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 217
+   在 集中器控制客户端.HandleClass.HandleTool.receiveInfo() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 67
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-10 16:42:31,366 [3] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 401
+
+2017-01-10 16:42:34,362 [3] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 217
+   在 集中器控制客户端.HandleClass.HandleTool.receiveInfo() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 67
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-10 16:45:07,751 [3] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 401
+
+2017-01-10 16:45:10,747 [3] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 217
+   在 集中器控制客户端.HandleClass.HandleTool.receiveInfo() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 67
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-10 16:45:52,956 [3] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 401
+
+2017-01-10 16:45:55,954 [3] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 217
+   在 集中器控制客户端.HandleClass.HandleTool.receiveInfo() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 67
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-10 16:48:08,062 [3] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 401
+
+2017-01-10 16:48:11,057 [3] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 217
+   在 集中器控制客户端.HandleClass.HandleTool.receiveInfo() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 67
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-10 16:50:19,549 [3] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 401
+
+2017-01-10 16:50:22,548 [3] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 217
+   在 集中器控制客户端.HandleClass.HandleTool.receiveInfo() 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 67
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-01-10 18:29:20,245 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 234
+
+
+----------------------footer--------------------------

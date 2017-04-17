@@ -1,0 +1,235 @@
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\集中器控制客户端.exe.config
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\集中器控制客户端.exe
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\集中器控制客户端.pdb
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\IrisSkin2.dll
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\log4net.dll
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\SQLite.Designer.dll
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\System.Data.SQLite.dll
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\EntityFramework.dll
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\EntityFramework.xml
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.ChartForm.resources
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.ConcentratorControlClient.resources
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.MsgCircuit.resources
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.MsgConvertingStation.resources
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.CreateSetting.resources
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.MsgDetection.resources
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.MsgDeviceSetting.resources
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.MsgGeneratrix.resources
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.LoadingForm.resources
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.MsgTemplet.resources
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.Properties.Resources.resources
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.RouteMap.resources
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.ShowQueryData.resources
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.exe
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.pdb
+C:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.csprojResolveAssemblyReference.cache
+F:\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\集中器控制客户端.exe.config
+F:\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.exe
+F:\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.pdb
+F:\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\集中器控制客户端.exe
+F:\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\集中器控制客户端.pdb
+F:\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\IrisSkin2.dll
+F:\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\log4net.dll
+F:\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\Newtonsoft.Json.dll
+F:\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\SQLite.Designer.dll
+F:\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\System.Data.SQLite.dll
+F:\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\System.Data.SQLite.EF6.dll
+F:\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\System.Data.SQLite.Linq.dll
+F:\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\EntityFramework.dll
+F:\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\EntityFramework.xml
+F:\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\zh-Hans\EntityFramework.resources.dll
+F:\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.csprojResolveAssemblyReference.cache
+F:\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.ChartForm.resources
+F:\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.ConcentratorControlClient.resources
+F:\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.MsgCircuit.resources
+F:\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.MsgConvertingStation.resources
+F:\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.CreateSetting.resources
+F:\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.MsgDetection.resources
+F:\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.MsgDeviceSetting.resources
+F:\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.MsgGeneratrix.resources
+F:\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.LoadingForm.resources
+F:\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.MsgTemplet.resources
+F:\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.PortSetting.resources
+F:\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.Properties.Resources.resources
+F:\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.RouteMap.resources
+F:\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.ShowQueryData.resources
+F:\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.csproj.GenerateResource.Cache
+E:\work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\集中器控制客户端.exe.config
+E:\work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.exe
+E:\work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.pdb
+E:\work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.ChartForm.resources
+E:\work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.ConcentratorControlClient.resources
+E:\work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.MsgCircuit.resources
+E:\work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.MsgConvertingStation.resources
+E:\work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.CreateSetting.resources
+E:\work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.MsgDetection.resources
+E:\work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.MsgDeviceSetting.resources
+E:\work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.MsgGeneratrix.resources
+E:\work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.LoadingForm.resources
+E:\work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.MsgTemplet.resources
+E:\work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.PortSetting.resources
+E:\work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.Properties.Resources.resources
+E:\work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.RouteMap.resources
+E:\work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.ShowQueryData.resources
+E:\work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.csproj.GenerateResource.Cache
+E:\work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\集中器控制客户端.exe
+E:\work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\集中器控制客户端.pdb
+E:\work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\IrisSkin2.dll
+E:\work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\log4net.dll
+E:\work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\System.Data.SQLite.dll
+E:\work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\System.Data.SQLite.Linq.dll
+E:\work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.csprojResolveAssemblyReference.cache
+F:\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\集中器控制客户端.exe
+F:\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\集中器控制客户端.pdb
+F:\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\IrisSkin2.dll
+F:\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\log4net.dll
+F:\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\集中器控制客户端.exe.config
+F:\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\System.Data.SQLite.DLL
+F:\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\System.Data.SQLite.Linq.dll
+F:\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.ChartForm.resources
+F:\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.ConcentratorControlClient.resources
+F:\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.MsgCircuit.resources
+F:\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.MsgConvertingStation.resources
+F:\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.CreateSetting.resources
+F:\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.MsgDetection.resources
+F:\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.MsgDeviceSetting.resources
+F:\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.MsgGeneratrix.resources
+F:\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.LoadingForm.resources
+F:\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.MsgTemplet.resources
+F:\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.PortSetting.resources
+F:\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.Properties.Resources.resources
+F:\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.RouteMap.resources
+F:\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.ShowQueryData.resources
+F:\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.csproj.GenerateResource.Cache
+F:\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.exe
+F:\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.pdb
+H:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\集中器控制客户端.exe.config
+H:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.exe
+H:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.pdb
+H:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\集中器控制客户端.exe
+H:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\集中器控制客户端.pdb
+H:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\IrisSkin2.dll
+H:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\log4net.dll
+H:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\System.Data.SQLite.DLL
+H:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\System.Data.SQLite.Linq.dll
+H:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.ChartForm.resources
+H:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.ConcentratorControlClient.resources
+H:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.MsgCircuit.resources
+H:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.MsgConvertingStation.resources
+H:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.CreateSetting.resources
+H:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.MsgDetection.resources
+H:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.MsgDeviceSetting.resources
+H:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.MsgGeneratrix.resources
+H:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.LoadingForm.resources
+H:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.MsgTemplet.resources
+H:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.PortSetting.resources
+H:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.Properties.Resources.resources
+H:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.RouteMap.resources
+H:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.ShowQueryData.resources
+H:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.csproj.GenerateResource.Cache
+E:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\集中器控制客户端.exe
+E:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\IrisSkin2.dll
+E:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\log4net.dll
+E:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\集中器控制客户端.exe.config
+E:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\集中器控制客户端.pdb
+E:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\System.Data.SQLite.DLL
+E:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\System.Data.SQLite.Linq.dll
+E:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.ChartForm.resources
+E:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.ConcentratorControlClient.resources
+E:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.MsgCircuit.resources
+E:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.MsgConvertingStation.resources
+E:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.CreateSetting.resources
+E:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.MsgDetection.resources
+E:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.MsgDeviceSetting.resources
+E:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.MsgGeneratrix.resources
+E:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.LoadingForm.resources
+E:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.MsgTemplet.resources
+E:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.PortSetting.resources
+E:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.Properties.Resources.resources
+E:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.RouteMap.resources
+E:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.ShowQueryData.resources
+E:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.csproj.GenerateResource.Cache
+E:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.exe
+E:\ConcentratorClient\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.pdb
+F:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\集中器控制客户端.exe.config
+F:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.exe
+F:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.pdb
+F:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\集中器控制客户端.exe
+F:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\集中器控制客户端.pdb
+F:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\IrisSkin2.dll
+F:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\log4net.dll
+F:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\System.Data.SQLite.DLL
+F:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\System.Data.SQLite.Linq.dll
+F:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.csprojResolveAssemblyReference.cache
+F:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.ChartForm.resources
+F:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.ConcentratorControlClient.resources
+F:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.MsgCircuit.resources
+F:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.MsgConvertingStation.resources
+F:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.CreateSetting.resources
+F:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.MsgDetection.resources
+F:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.MsgDeviceSetting.resources
+F:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.MsgGeneratrix.resources
+F:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.LoadingForm.resources
+F:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.MsgTemplet.resources
+F:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.PortSetting.resources
+F:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.Properties.Resources.resources
+F:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.RouteMap.resources
+F:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.ShowQueryData.resources
+F:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.csproj.GenerateResource.Cache
+F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\集中器控制客户端.exe.config
+F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\集中器控制客户端.exe
+F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\集中器控制客户端.pdb
+F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\IrisSkin2.dll
+F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\log4net.dll
+F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\System.Data.SQLite.DLL
+F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\System.Data.SQLite.Linq.dll
+F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.ChartForm.resources
+F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.ConcentratorControlClient.resources
+F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.MsgCircuit.resources
+F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.MsgConvertingStation.resources
+F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.CreateSetting.resources
+F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.MsgDetection.resources
+F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.MsgDeviceSetting.resources
+F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.MsgGeneratrix.resources
+F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.LoadingForm.resources
+F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.MsgTemplet.resources
+F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.PortSetting.resources
+F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.Properties.Resources.resources
+F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.RouteMap.resources
+F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.ShowQueryData.resources
+F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.csproj.GenerateResource.Cache
+F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.exe
+F:\Work\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.pdb
+E:\Work\上海\上海\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\集中器控制客户端.exe.config
+E:\Work\上海\上海\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.exe
+E:\Work\上海\上海\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.pdb
+E:\Work\上海\上海\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\集中器控制客户端.exe
+E:\Work\上海\上海\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\集中器控制客户端.pdb
+E:\Work\上海\上海\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\IrisSkin2.dll
+E:\Work\上海\上海\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\log4net.dll
+E:\Work\上海\上海\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\System.Data.SQLite.DLL
+E:\Work\上海\上海\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\System.Data.SQLite.Linq.dll
+E:\Work\上海\上海\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.ChartForm.resources
+E:\Work\上海\上海\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.ConcentratorControlClient.resources
+E:\Work\上海\上海\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.MsgCircuit.resources
+E:\Work\上海\上海\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.MsgConvertingStation.resources
+E:\Work\上海\上海\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.CreateSetting.resources
+E:\Work\上海\上海\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.MsgDetection.resources
+E:\Work\上海\上海\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.MsgDeviceSetting.resources
+E:\Work\上海\上海\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.MsgGeneratrix.resources
+E:\Work\上海\上海\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.LoadingForm.resources
+E:\Work\上海\上海\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.MsgTemplet.resources
+E:\Work\上海\上海\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.PortSetting.resources
+E:\Work\上海\上海\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.Properties.Resources.resources
+E:\Work\上海\上海\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.RouteMap.resources
+E:\Work\上海\上海\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.ShowQueryData.resources
+E:\Work\上海\上海\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.csproj.GenerateResource.Cache
+E:\Work\上海\上海\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.csprojResolveAssemblyReference.cache
+E:\Work\上海\上海\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\集中器控制客户端.ChartNewView.resources
+E:\Work\上海\上海\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\DevComponents.DotNetBar2.dll
+E:\Work\上海\上海\上海\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\DevComponents.DotNetBar.Layout.dll

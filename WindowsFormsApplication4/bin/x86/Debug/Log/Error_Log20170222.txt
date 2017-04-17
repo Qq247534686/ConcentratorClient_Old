@@ -1,0 +1,321 @@
+
+----------------------header--------------------------
+2017-02-22 09:58:24,816 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 h:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 290
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-22 10:03:07,763 [1] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 h:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 290
+
+2017-02-22 10:03:16,011 [3] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 192.168.1.76:8888
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 集中器控制客户端.HandleClass.HandleTool.ToThreadCreateSocket(Object obj) 位置 h:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 139
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-22 10:17:24,905 [4] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 一个封锁操作被对 WSACancelBlockingCall 的调用中断。
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 h:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-22 10:23:16,295 [4] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 Microsoft.Win32.SafeNativeMethods.FormatMessage(Int32 dwFlags, IntPtr lpSource_mustBeNull, UInt32 dwMessageId, Int32 dwLanguageId, StringBuilder lpBuffer, Int32 nSize, IntPtr[] arguments)
+   在 System.ComponentModel.Win32Exception.TryGetErrorMessage(Int32 error, StringBuilder sb, String& errorMsg)
+   在 System.ComponentModel.Win32Exception.GetErrorMessage(Int32 error)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 h:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-22 11:18:28,600 [4] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.CloseThread() 位置 h:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 331
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 h:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 273
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 h:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 77
+
+2017-02-22 11:18:36,434 [1] ERROR errorMsg - System.ObjectDisposedException: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 h:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 290
+
+2017-02-22 11:19:44,279 [5] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 h:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 501
+
+2017-02-22 11:28:14,622 [7] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 远程主机强迫关闭了一个现有的连接。
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 h:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-22 11:47:26,137 [4] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.CloseThread() 位置 h:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 331
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 h:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 273
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 h:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 77
+
+2017-02-22 11:48:05,695 [7] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.CloseThread() 位置 h:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 331
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 h:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 273
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 h:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 77
+
+2017-02-22 11:48:51,904 [9] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.CloseThread() 位置 h:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 331
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 h:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 273
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 h:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 77
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-22 11:57:31,747 [14] ERROR errorMsg - System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportSerialize(Byte[] data) 位置 h:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 501
+
+2017-02-22 11:57:44,403 [13] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 一个封锁操作被对 WSACancelBlockingCall 的调用中断。
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 h:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-22 11:58:33,789 [16] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 Microsoft.Win32.SafeNativeMethods.FormatMessage(Int32 dwFlags, IntPtr lpSource_mustBeNull, UInt32 dwMessageId, Int32 dwLanguageId, StringBuilder lpBuffer, Int32 nSize, IntPtr[] arguments)
+   在 System.ComponentModel.Win32Exception.TryGetErrorMessage(Int32 error, StringBuilder sb, String& errorMsg)
+   在 System.ComponentModel.Win32Exception.GetErrorMessage(Int32 error)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 h:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-22 17:09:11,242 [4] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 一个封锁操作被对 WSACancelBlockingCall 的调用中断。
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 h:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-22 17:19:48,397 [4] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 Microsoft.Win32.SafeNativeMethods.FormatMessage(Int32 dwFlags, IntPtr lpSource_mustBeNull, UInt32 dwMessageId, Int32 dwLanguageId, StringBuilder lpBuffer, Int32 nSize, IntPtr[] arguments)
+   在 System.ComponentModel.Win32Exception.TryGetErrorMessage(Int32 error, StringBuilder sb, String& errorMsg)
+   在 System.ComponentModel.Win32Exception.GetErrorMessage(Int32 error)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 h:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-22 17:22:12,592 [8] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 h:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-22 17:34:11,092 [1] ERROR errorMsg - System.ArgumentNullException: 值不能为 null。
+参数名: second
+   在 System.Linq.Enumerable.Concat[TSource](IEnumerable`1 first, IEnumerable`1 second)
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportUnSerialize(ClientReport data) 位置 h:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 111
+
+2017-02-22 17:34:11,101 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 h:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 290
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-22 17:34:48,569 [1] ERROR errorMsg - System.ArgumentNullException: 值不能为 null。
+参数名: second
+   在 System.Linq.Enumerable.Concat[TSource](IEnumerable`1 first, IEnumerable`1 second)
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportUnSerialize(ClientReport data) 位置 h:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 111
+
+2017-02-22 17:34:48,586 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 h:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 290
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-22 17:35:26,927 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 h:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 290
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-22 17:35:47,164 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 h:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 290
+
+2017-02-22 17:35:55,067 [1] ERROR errorMsg - System.ArgumentNullException: 值不能为 null。
+参数名: second
+   在 System.Linq.Enumerable.Concat[TSource](IEnumerable`1 first, IEnumerable`1 second)
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportUnSerialize(ClientReport data) 位置 h:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 111
+
+2017-02-22 17:35:55,067 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 h:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 290
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-22 17:37:13,980 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 h:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 290
+
+2017-02-22 17:37:19,252 [1] ERROR errorMsg - System.ArgumentNullException: 值不能为 null。
+参数名: second
+   在 System.Linq.Enumerable.Concat[TSource](IEnumerable`1 first, IEnumerable`1 second)
+   在 集中器控制客户端.HandleClass.BytesSerialize.clientReportUnSerialize(ClientReport data) 位置 h:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\BytesSerialize.cs:行号 111
+
+2017-02-22 17:37:19,252 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 h:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 290
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-02-22 18:03:00,419 [4] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 一个封锁操作被对 WSACancelBlockingCall 的调用中断。
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 h:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-22 18:03:00,421 [7] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 一个封锁操作被对 WSACancelBlockingCall 的调用中断。
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 h:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+2017-02-22 18:03:08,889 [9] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.CloseThread() 位置 h:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 331
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 h:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 273
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 h:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 77
+
+2017-02-22 18:03:09,342 [1] ERROR errorMsg - System.ObjectDisposedException: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 h:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 290
+
+2017-02-22 18:04:34,640 [6] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 h:\Work\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 74
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------

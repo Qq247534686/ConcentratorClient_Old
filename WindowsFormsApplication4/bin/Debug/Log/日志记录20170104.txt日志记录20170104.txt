@@ -1,0 +1,28 @@
+
+----------------------header--------------------------
+2017-01-04 17:34:00,685 [8] ERROR errorMsg - System.FormatException: 字符串的末尾有其他无法分析的字符。
+   在 System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   在 System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   在 集中器控制客户端.ConcentratorControlClient.gid_addDevice(Object sender, EventArgs e) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 1402
+   在 集中器控制客户端.GDIPanel.button1_Click(Object sender, EventArgs e) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\GDIPanel.cs:行号 140
+
+2017-01-04 17:34:43,733 [8] ERROR errorMsg - System.FormatException: 字符串的末尾有其他无法分析的字符。
+   在 System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   在 System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   在 集中器控制客户端.ConcentratorControlClient.gid_addDevice(Object sender, EventArgs e) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 1402
+   在 集中器控制客户端.GDIPanel.button1_Click(Object sender, EventArgs e) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\GDIPanel.cs:行号 140
+
+2017-01-04 17:34:55,676 [8] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   在 System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   在 集中器控制客户端.ConcentratorControlClient.gid_addDevice(Object sender, EventArgs e) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 1402
+   在 集中器控制客户端.GDIPanel.button1_Click(Object sender, EventArgs e) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\GDIPanel.cs:行号 140
+
+2017-01-04 17:35:08,038 [8] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   在 System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   在 集中器控制客户端.ConcentratorControlClient.gid_addDevice(Object sender, EventArgs e) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 1402
+   在 集中器控制客户端.GDIPanel.button1_Click(Object sender, EventArgs e) 位置 c:\Users\Administrator\Documents\Tencent Files\247534686\FileRecv\WindowsFormsApplication4\WindowsFormsApplication4\GDIPanel.cs:行号 140
+
+
+----------------------footer--------------------------
